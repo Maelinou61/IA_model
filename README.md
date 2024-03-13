@@ -38,7 +38,7 @@ Detection model shows very good result to detect the calibration panel (mAP = 90
 Segmentation model shows very good result. I made ten runs to train ten different U-Net model with different training database. On 10 runs, the average metrics are: loss=0.08466, dice_coef=0.8339, precision=0.9369, recall=0.8566, accuracy=0.9528. 
 ![image](https://github.com/Maelinou61/IA_model/assets/157109478/54190bcc-5c13-4a35-a29a-5636b4e1eac2)
 
-About the circles detection, I found satisfying parameters for cv2.HoughCircles function. It detects approximately 50% of the circles inside cropped calibration panel. This percentage can be explained by the fact that sometimes, images are blurred or the calibration is at the extremity of the image. However, when a circles is detected, most of the time, it corresponds to the real circle inside the calibration panel.
+About the circles detection, I found satisfying parameters for cv2.HoughCircles function. It detects approximately 40% of the circles inside cropped calibration panel. This percentage can be explained by the fact that sometimes, images are blurred or the calibration is at the extremity of the image. However, when a circles is detected, most of the time, it corresponds to the real circle inside the calibration panel.
 ![image](https://github.com/Maelinou61/IA_model/assets/157109478/cf641e1e-66ab-4cb5-ad27-0dedecf6a0a4)
 
 
