@@ -6,7 +6,7 @@ import numpy as np
 current_dir = 'data/images_yolo'
 
 # Percentage of images to be used for the test set
-test_ratio = 1.0
+test_ratio = 0.2
 
 # Valide image files we will use
 valid_extensions = [".jpg",".gif",".png",".jpeg"]
