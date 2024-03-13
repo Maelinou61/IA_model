@@ -1,0 +1,2795 @@
+[
+{
+ "frame_id":1, 
+ "filename":"data/images_yolo/photo114.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.520364, "center_y":0.517776, "width":0.037731, "height":0.044914}, "confidence":0.834288}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.506820, "center_y":0.605964, "width":0.016787, "height":0.021363}, "confidence":0.473135}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"data/images_yolo/photo111.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.523258, "center_y":0.527633, "width":0.062844, "height":0.063966}, "confidence":0.940356}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"data/images_yolo/photo9.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.566567, "center_y":0.523000, "width":0.023596, "height":0.028528}, "confidence":0.727467}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"data/images_yolo/photo50.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.543445, "center_y":0.510520, "width":0.108877, "height":0.143897}, "confidence":0.774351}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.540599, "center_y":0.510402, "width":0.054050, "height":0.193797}, "confidence":0.719141}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"data/images_yolo/ALVAROIMG557.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.506740, "center_y":0.480072, "width":0.209714, "height":0.246308}, "confidence":0.917507}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.426018, "center_y":0.726880, "width":0.262510, "height":0.279761}, "confidence":0.407964}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.476936, "center_y":0.731117, "width":0.470605, "height":0.314653}, "confidence":0.356293}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"data/images_yolo/photo52.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.524082, "center_y":0.493825, "width":0.091103, "height":0.090739}, "confidence":0.815382}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.525151, "center_y":0.504884, "width":0.112828, "height":0.172584}, "confidence":0.298009}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"data/images_yolo/photo142.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.495215, "center_y":0.502432, "width":0.019929, "height":0.032186}, "confidence":0.866378}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.501496, "center_y":0.395740, "width":0.015006, "height":0.024329}, "confidence":0.700945}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"data/images_yolo/PABLOIMG753.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.509950, "center_y":0.591435, "width":0.224164, "height":0.160440}, "confidence":0.800011}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.516293, "center_y":0.596195, "width":0.198324, "height":0.264894}, "confidence":0.258491}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.526013, "center_y":0.428238, "width":0.051541, "height":0.060388}, "confidence":0.590916}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.526133, "center_y":0.429070, "width":0.054736, "height":0.045843}, "confidence":0.395462}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.522161, "center_y":0.417693, "width":0.076511, "height":0.043465}, "confidence":0.263159}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"data/images_yolo/JOSE EMILIOIMG1429.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.512729, "center_y":0.257374, "width":0.282855, "height":0.227326}, "confidence":0.913986}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.666791, "center_y":0.513149, "width":0.196946, "height":0.360279}, "confidence":0.328824}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.560490, "center_y":0.568688, "width":0.329339, "height":0.417974}, "confidence":0.256711}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"data/images_yolo/ARISTIDESIMG746.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.484423, "center_y":0.176321, "width":0.242482, "height":0.220278}, "confidence":0.251311}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.484423, "center_y":0.176321, "width":0.242482, "height":0.220278}, "confidence":0.756614}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.398587, "center_y":0.505602, "width":0.306948, "height":0.348673}, "confidence":0.413683}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.471760, "center_y":0.396308, "width":0.079295, "height":0.160823}, "confidence":0.345279}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"data/images_yolo/VICENTEIMG1502.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.511674, "center_y":0.178640, "width":0.206488, "height":0.247922}, "confidence":0.879607}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.522877, "center_y":0.183713, "width":0.202633, "height":0.354222}, "confidence":0.275260}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.429817, "center_y":0.440713, "width":0.292180, "height":0.302835}, "confidence":0.392803}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"data/images_yolo/photo108.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.512090, "center_y":0.477030, "width":0.036398, "height":0.038522}, "confidence":0.853197}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"data/images_yolo/SIMATECIMAG58.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.497375, "center_y":0.335268, "width":0.077523, "height":0.080786}, "confidence":0.927134}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.499452, "center_y":0.328234, "width":0.095688, "height":0.039527}, "confidence":0.829170}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.496138, "center_y":0.435831, "width":0.067706, "height":0.082057}, "confidence":0.855502}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.486278, "center_y":0.583114, "width":0.348540, "height":0.266258}, "confidence":0.514810}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.486453, "center_y":0.578606, "width":0.196015, "height":0.395942}, "confidence":0.378354}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"data/images_yolo/MELQUISEDECIMG1462.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.481341, "center_y":0.285293, "width":0.236060, "height":0.334138}, "confidence":0.867600}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.479687, "center_y":0.277072, "width":0.199183, "height":0.387342}, "confidence":0.686497}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.428954, "center_y":0.576203, "width":0.238238, "height":0.474388}, "confidence":0.631033}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"data/images_yolo/photo137.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.527321, "center_y":0.501971, "width":0.027861, "height":0.036202}, "confidence":0.752827}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.524967, "center_y":0.498413, "width":0.050360, "height":0.065426}, "confidence":0.574230}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"data/images_yolo/SIMATECIMAG61.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.445417, "center_y":0.328502, "width":0.226178, "height":0.216589}, "confidence":0.970725}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.444825, "center_y":0.309353, "width":0.162312, "height":0.125820}, "confidence":0.949278}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.484557, "center_y":0.526933, "width":0.210732, "height":0.143903}, "confidence":0.924258}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.556514, "center_y":0.610707, "width":0.100442, "height":0.083374}, "confidence":0.626568}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"data/images_yolo/photo24.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.437003, "center_y":0.587812, "width":0.077434, "height":0.095654}, "confidence":0.931327}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"data/images_yolo/FABIOIMG1410.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.445245, "center_y":0.471814, "width":0.157588, "height":0.169560}, "confidence":0.930279}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.430786, "center_y":0.603509, "width":0.045327, "height":0.042041}, "confidence":0.422729}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"data/images_yolo/photo54.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.443909, "center_y":0.527451, "width":0.084464, "height":0.074190}, "confidence":0.928961}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"data/images_yolo/photo83.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.481731, "center_y":0.534645, "width":0.066527, "height":0.087979}, "confidence":0.762587}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.480693, "center_y":0.532917, "width":0.062037, "height":0.187840}, "confidence":0.277496}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"data/images_yolo/VICENTEIMG1508.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.441020, "center_y":0.328365, "width":0.304289, "height":0.372209}, "confidence":0.815744}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.430621, "center_y":0.334707, "width":0.270289, "height":0.335898}, "confidence":0.545296}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.164486, "center_y":0.755318, "width":0.074346, "height":0.096126}, "confidence":0.884210}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.420719, "center_y":0.661046, "width":0.210643, "height":0.265195}, "confidence":0.694734}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.463327, "center_y":0.652086, "width":0.295089, "height":0.378564}, "confidence":0.260502}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"data/images_yolo/ARISTIDESIMG748.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.532810, "center_y":0.641939, "width":0.293490, "height":0.278869}, "confidence":0.708227}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.529265, "center_y":0.663344, "width":0.262372, "height":0.333282}, "confidence":0.425787}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.401103, "center_y":0.394691, "width":0.225753, "height":0.195709}, "confidence":0.954499}
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"data/images_yolo/ALFONSOIMG522.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.404950, "center_y":0.209799, "width":0.215986, "height":0.222861}, "confidence":0.929032}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"data/images_yolo/SIMATECIMAG29.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.773574, "center_y":0.430450, "width":0.219542, "height":0.139550}, "confidence":0.972992}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.337191, "center_y":0.423507, "width":0.296141, "height":0.420398}, "confidence":0.613802}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.599239, "center_y":0.381401, "width":0.117770, "height":0.059566}, "confidence":0.452108}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.550549, "center_y":0.511631, "width":0.221044, "height":0.344510}, "confidence":0.388858}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.551460, "center_y":0.489788, "width":0.347516, "height":0.506111}, "confidence":0.270744}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"data/images_yolo/photo132.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.458782, "center_y":0.512741, "width":0.039387, "height":0.054577}, "confidence":0.641834}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"data/images_yolo/LUIS FRANCISCOIMG751.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.518349, "center_y":0.635807, "width":0.260396, "height":0.303253}, "confidence":0.902095}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.519783, "center_y":0.642426, "width":0.211503, "height":0.414036}, "confidence":0.331089}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.439339, "center_y":0.355944, "width":0.064416, "height":0.070522}, "confidence":0.756755}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"data/images_yolo/SIMATECIMAG07.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.191718, "center_y":0.572206, "width":0.261077, "height":0.190851}, "confidence":0.937259}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.479394, "center_y":0.560870, "width":0.213804, "height":0.111952}, "confidence":0.952043}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.433528, "center_y":0.562013, "width":0.047511, "height":0.043234}, "confidence":0.784709}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.619801, "center_y":0.528951, "width":0.063516, "height":0.055049}, "confidence":0.708117}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.508398, "center_y":0.550546, "width":0.094851, "height":0.126601}, "confidence":0.640485}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.472233, "center_y":0.544560, "width":0.494695, "height":0.102266}, "confidence":0.604585}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.785374, "center_y":0.593540, "width":0.244930, "height":0.163878}, "confidence":0.587349}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.784215, "center_y":0.594322, "width":0.496972, "height":0.121260}, "confidence":0.554862}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"data/images_yolo/photo74.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.464194, "center_y":0.458316, "width":0.072354, "height":0.139873}, "confidence":0.648689}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.456245, "center_y":0.456350, "width":0.076596, "height":0.067230}, "confidence":0.358910}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"data/images_yolo/photo102.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.529576, "center_y":0.491131, "width":0.017027, "height":0.025297}, "confidence":0.833821}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.527720, "center_y":0.494825, "width":0.029868, "height":0.039687}, "confidence":0.274646}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"data/images_yolo/SIMATECIMAG56.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.584320, "center_y":0.360787, "width":0.159826, "height":0.159828}, "confidence":0.973715}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.595203, "center_y":0.337647, "width":0.092949, "height":0.135424}, "confidence":0.803248}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.596255, "center_y":0.628273, "width":0.206760, "height":0.366131}, "confidence":0.432936}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.639684, "center_y":0.638951, "width":0.399516, "height":0.374436}, "confidence":0.358084}
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"data/images_yolo/SIMATECIMAG42.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.542675, "center_y":0.481309, "width":0.151741, "height":0.175694}, "confidence":0.932682}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.550286, "center_y":0.726499, "width":0.142902, "height":0.111178}, "confidence":0.803136}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"data/images_yolo/photo39.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.488033, "center_y":0.451978, "width":0.107504, "height":0.095141}, "confidence":0.588737}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"data/images_yolo/photo141.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.496586, "center_y":0.502347, "width":0.017876, "height":0.029635}, "confidence":0.791108}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.493466, "center_y":0.390442, "width":0.021070, "height":0.030687}, "confidence":0.665971}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"data/images_yolo/photo63.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.526701, "center_y":0.508827, "width":0.059111, "height":0.131882}, "confidence":0.881892}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.519732, "center_y":0.507836, "width":0.074288, "height":0.070773}, "confidence":0.582492}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"data/images_yolo/JOSE EMILIOIMG1435.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.475084, "center_y":0.215323, "width":0.308973, "height":0.165989}, "confidence":0.952902}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.438640, "center_y":0.592018, "width":0.395005, "height":0.462404}, "confidence":0.517245}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.472028, "center_y":0.397713, "width":0.032887, "height":0.048484}, "confidence":0.252669}
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"data/images_yolo/photo124.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.466248, "center_y":0.521611, "width":0.092263, "height":0.091239}, "confidence":0.772761}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.341154, "center_y":0.676021, "width":0.099893, "height":0.051866}, "confidence":0.586531}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.463101, "center_y":0.517872, "width":0.072805, "height":0.046132}, "confidence":0.500798}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.354263, "center_y":0.675588, "width":0.122176, "height":0.029902}, "confidence":0.337863}
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG809.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.512165, "center_y":0.868873, "width":0.273818, "height":0.213715}, "confidence":0.891668}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.544569, "center_y":0.564031, "width":0.230648, "height":0.215851}, "confidence":0.896132}
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"data/images_yolo/VICENTEIMG1497.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.415407, "center_y":0.242543, "width":0.260621, "height":0.218571}, "confidence":0.908385}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.514037, "center_y":0.682096, "width":0.147038, "height":0.163507}, "confidence":0.918750}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.414487, "center_y":0.457332, "width":0.113501, "height":0.162473}, "confidence":0.819993}
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"data/images_yolo/SIMATECIMAG14.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.478065, "center_y":0.449051, "width":0.157105, "height":0.147671}, "confidence":0.916361}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.472442, "center_y":0.605041, "width":0.111010, "height":0.074620}, "confidence":0.901232}
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"data/images_yolo/photo31.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.028300, "center_y":0.171386, "width":0.056920, "height":0.206124}, "confidence":0.315410}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.543333, "center_y":0.533270, "width":0.031565, "height":0.041969}, "confidence":0.910101}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"data/images_yolo/SIMATECIMAG12.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.447367, "center_y":0.538605, "width":0.153134, "height":0.037511}, "confidence":0.910981}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.439257, "center_y":0.538452, "width":0.078535, "height":0.093604}, "confidence":0.906414}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.444664, "center_y":0.540673, "width":0.130116, "height":0.121489}, "confidence":0.740938}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.465794, "center_y":0.658783, "width":0.024989, "height":0.025370}, "confidence":0.437607}
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"data/images_yolo/FABIOIMG1411.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.338619, "center_y":0.407873, "width":0.196465, "height":0.235706}, "confidence":0.635639}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.336513, "center_y":0.400570, "width":0.331637, "height":0.185952}, "confidence":0.413593}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.303357, "center_y":0.584949, "width":0.049676, "height":0.050958}, "confidence":0.309226}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.299287, "center_y":0.572646, "width":0.064187, "height":0.070946}, "confidence":0.279287}
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"data/images_yolo/ADANIMG703.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.565607, "center_y":0.732394, "width":0.239358, "height":0.158276}, "confidence":0.841444}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.600544, "center_y":0.418843, "width":0.050792, "height":0.057656}, "confidence":0.879196}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.526766, "center_y":0.545995, "width":0.075641, "height":0.094147}, "confidence":0.871152}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.513981, "center_y":0.541471, "width":0.085730, "height":0.061972}, "confidence":0.612143}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.352390, "center_y":0.489409, "width":0.055571, "height":0.071641}, "confidence":0.317936}
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"data/images_yolo/photo59.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.513802, "center_y":0.495182, "width":0.084650, "height":0.095326}, "confidence":0.524438}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.514060, "center_y":0.504439, "width":0.043906, "height":0.049629}, "confidence":0.251070}
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"data/images_yolo/photo120.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.493257, "center_y":0.437220, "width":0.090528, "height":0.092767}, "confidence":0.917059}
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"data/images_yolo/MELQUISEDECIMG1459.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.469149, "center_y":0.570325, "width":0.265872, "height":0.179422}, "confidence":0.762557}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.442269, "center_y":0.332548, "width":0.215475, "height":0.144525}, "confidence":0.943823}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.320467, "center_y":0.142037, "width":0.085261, "height":0.082493}, "confidence":0.324758}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.481494, "center_y":0.573455, "width":0.386606, "height":0.200809}, "confidence":0.251285}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"data/images_yolo/photo93.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.502988, "center_y":0.450701, "width":0.138359, "height":0.095840}, "confidence":0.771459}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.569363, "center_y":0.593274, "width":0.073097, "height":0.044878}, "confidence":0.699317}
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"data/images_yolo/SIMATECIMAG49.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.508643, "center_y":0.363459, "width":0.183094, "height":0.188740}, "confidence":0.966098}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.619594, "center_y":0.619276, "width":0.045944, "height":0.068597}, "confidence":0.868967}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.542021, "center_y":0.899351, "width":0.169613, "height":0.107555}, "confidence":0.808042}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.386382, "center_y":0.514396, "width":0.033687, "height":0.050061}, "confidence":0.514792}
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"data/images_yolo/photo91.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.566971, "center_y":0.575392, "width":0.020391, "height":0.032961}, "confidence":0.659622}
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"data/images_yolo/JORGEIMG599.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.367233, "center_y":0.828274, "width":0.202105, "height":0.199977}, "confidence":0.937845}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.348733, "center_y":0.822602, "width":0.263559, "height":0.127886}, "confidence":0.269328}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.449736, "center_y":0.444849, "width":0.226048, "height":0.514568}, "confidence":0.375082}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG805.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.482817, "center_y":0.817766, "width":0.303893, "height":0.363742}, "confidence":0.772064}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.472053, "center_y":0.808357, "width":0.470583, "height":0.291532}, "confidence":0.304212}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.465113, "center_y":0.492061, "width":0.070072, "height":0.115127}, "confidence":0.877907}
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"data/images_yolo/photo58.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.563574, "center_y":0.542679, "width":0.074376, "height":0.092013}, "confidence":0.854138}
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG561.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.494351, "center_y":0.751226, "width":0.195463, "height":0.221326}, "confidence":0.873595}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.500019, "center_y":0.753973, "width":0.150305, "height":0.197343}, "confidence":0.259379}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.555511, "center_y":0.641926, "width":0.214220, "height":0.156240}, "confidence":0.894211}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"data/images_yolo/SIMATECIMAG37.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.512330, "center_y":0.379930, "width":0.180977, "height":0.138456}, "confidence":0.955148}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.505680, "center_y":0.646528, "width":0.131416, "height":0.110827}, "confidence":0.817234}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"data/images_yolo/photo140.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.497440, "center_y":0.763721, "width":0.018844, "height":0.043338}, "confidence":0.879323}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.504211, "center_y":0.579717, "width":0.021108, "height":0.029459}, "confidence":0.704243}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.503123, "center_y":0.579142, "width":0.028388, "height":0.058141}, "confidence":0.253074}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"data/images_yolo/photo121.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.488428, "center_y":0.382135, "width":0.106625, "height":0.097258}, "confidence":0.722276}
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"data/images_yolo/photo17.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.529113, "center_y":0.545249, "width":0.020300, "height":0.021243}, "confidence":0.600873}
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"data/images_yolo/LEONARDOIMG715.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.433397, "center_y":0.332619, "width":0.261848, "height":0.188526}, "confidence":0.434368}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.585534, "center_y":0.749839, "width":0.206370, "height":0.230810}, "confidence":0.710061}
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"data/images_yolo/photo18.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.522921, "center_y":0.518965, "width":0.117106, "height":0.139842}, "confidence":0.936282}
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"data/images_yolo/VICENTEIMG1510.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.413823, "center_y":0.176238, "width":0.257890, "height":0.255704}, "confidence":0.889064}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.423952, "center_y":0.176869, "width":0.209352, "height":0.408269}, "confidence":0.714797}
+ ] 
+}, 
+{
+ "frame_id":61, 
+ "filename":"data/images_yolo/photo134.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.448175, "center_y":0.439243, "width":0.187966, "height":0.122671}, "confidence":0.819795}
+ ] 
+}, 
+{
+ "frame_id":62, 
+ "filename":"data/images_yolo/photo64.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":63, 
+ "filename":"data/images_yolo/MELQUISEDECIMG1458.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.427703, "center_y":0.382229, "width":0.225782, "height":0.149752}, "confidence":0.848238}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.445459, "center_y":0.378596, "width":0.138196, "height":0.282756}, "confidence":0.341431}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.428049, "center_y":0.628053, "width":0.130633, "height":0.167963}, "confidence":0.630863}
+ ] 
+}, 
+{
+ "frame_id":64, 
+ "filename":"data/images_yolo/photo103.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.504696, "center_y":0.515812, "width":0.021624, "height":0.030082}, "confidence":0.759719}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.506187, "center_y":0.516707, "width":0.030223, "height":0.046526}, "confidence":0.275325}
+ ] 
+}, 
+{
+ "frame_id":65, 
+ "filename":"data/images_yolo/photo21.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.515310, "center_y":0.481094, "width":0.100304, "height":0.092813}, "confidence":0.953451}
+ ] 
+}, 
+{
+ "frame_id":66, 
+ "filename":"data/images_yolo/SIMATECIMAG21.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.456111, "center_y":0.471927, "width":0.171531, "height":0.251091}, "confidence":0.974194}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.455375, "center_y":0.465377, "width":0.091558, "height":0.125430}, "confidence":0.311144}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.541152, "center_y":0.666853, "width":0.079806, "height":0.133936}, "confidence":0.804711}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.380962, "center_y":0.668282, "width":0.035934, "height":0.051607}, "confidence":0.774063}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.541664, "center_y":0.665654, "width":0.086568, "height":0.059220}, "confidence":0.605337}
+ ] 
+}, 
+{
+ "frame_id":67, 
+ "filename":"data/images_yolo/VICENTEIMG1496.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.598667, "center_y":0.355004, "width":0.219852, "height":0.256046}, "confidence":0.946744}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.373458, "center_y":0.827832, "width":0.115229, "height":0.097274}, "confidence":0.960416}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.440170, "center_y":0.405108, "width":0.162373, "height":0.201478}, "confidence":0.758336}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.544123, "center_y":0.637593, "width":0.157216, "height":0.222526}, "confidence":0.590364}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.332749, "center_y":0.213754, "width":0.083009, "height":0.103349}, "confidence":0.558661}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.377438, "center_y":0.830554, "width":0.147758, "height":0.174400}, "confidence":0.468676}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.544206, "center_y":0.641359, "width":0.312240, "height":0.314070}, "confidence":0.334443}
+ ] 
+}, 
+{
+ "frame_id":68, 
+ "filename":"data/images_yolo/photo80.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.469439, "center_y":0.553392, "width":0.024849, "height":0.041268}, "confidence":0.846294}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.522890, "center_y":0.562373, "width":0.023330, "height":0.039162}, "confidence":0.830953}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.395052, "center_y":0.451386, "width":0.041323, "height":0.036866}, "confidence":0.692445}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.521815, "center_y":0.561363, "width":0.034432, "height":0.059524}, "confidence":0.631607}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.222191, "center_y":0.734619, "width":0.021715, "height":0.043003}, "confidence":0.325637}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.140754, "center_y":0.591608, "width":0.032080, "height":0.033138}, "confidence":0.293216}
+ ] 
+}, 
+{
+ "frame_id":69, 
+ "filename":"data/images_yolo/photo56.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.510639, "center_y":0.432008, "width":0.039246, "height":0.049092}, "confidence":0.429757}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.668085, "center_y":0.502366, "width":0.046613, "height":0.027729}, "confidence":0.300982}
+ ] 
+}, 
+{
+ "frame_id":70, 
+ "filename":"data/images_yolo/SIMATECIMAG60.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.503419, "center_y":0.449168, "width":0.081745, "height":0.087378}, "confidence":0.885064}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.500436, "center_y":0.442386, "width":0.041702, "height":0.072319}, "confidence":0.688309}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.500492, "center_y":0.440264, "width":0.084727, "height":0.034787}, "confidence":0.662916}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.485801, "center_y":0.550490, "width":0.044535, "height":0.096314}, "confidence":0.920225}
+ ] 
+}, 
+{
+ "frame_id":71, 
+ "filename":"data/images_yolo/photo16.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.526834, "center_y":0.483226, "width":0.021528, "height":0.020162}, "confidence":0.441256}
+ ] 
+}, 
+{
+ "frame_id":72, 
+ "filename":"data/images_yolo/MELQUISEDECIMG1457.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.299327, "center_y":0.625072, "width":0.263933, "height":0.218664}, "confidence":0.368551}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.627406, "center_y":0.477908, "width":0.258209, "height":0.333443}, "confidence":0.376273}
+ ] 
+}, 
+{
+ "frame_id":73, 
+ "filename":"data/images_yolo/photo77.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.497545, "center_y":0.504242, "width":0.040123, "height":0.077768}, "confidence":0.365813}
+ ] 
+}, 
+{
+ "frame_id":74, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG571.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.475911, "center_y":0.371101, "width":0.282845, "height":0.281761}, "confidence":0.822538}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.482425, "center_y":0.367990, "width":0.249522, "height":0.285077}, "confidence":0.266854}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.432010, "center_y":0.632995, "width":0.145783, "height":0.114473}, "confidence":0.872165}
+ ] 
+}, 
+{
+ "frame_id":75, 
+ "filename":"data/images_yolo/LUCILAIMG1443.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.469338, "center_y":0.291833, "width":0.265494, "height":0.156986}, "confidence":0.952726}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.477409, "center_y":0.524287, "width":0.167721, "height":0.238762}, "confidence":0.628468}
+ ] 
+}, 
+{
+ "frame_id":76, 
+ "filename":"data/images_yolo/photo101.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.535335, "center_y":0.476077, "width":0.022086, "height":0.043046}, "confidence":0.693598}
+ ] 
+}, 
+{
+ "frame_id":77, 
+ "filename":"data/images_yolo/VICENTEIMG1509.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.367499, "center_y":0.203604, "width":0.250821, "height":0.313682}, "confidence":0.906472}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.347284, "center_y":0.199928, "width":0.334152, "height":0.288544}, "confidence":0.321653}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.414201, "center_y":0.510346, "width":0.223751, "height":0.309122}, "confidence":0.727736}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.193149, "center_y":0.544934, "width":0.084729, "height":0.116513}, "confidence":0.329647}
+ ] 
+}, 
+{
+ "frame_id":78, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG803.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.476699, "center_y":0.866501, "width":0.226522, "height":0.254756}, "confidence":0.929661}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.482860, "center_y":0.861890, "width":0.389032, "height":0.173248}, "confidence":0.776417}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.488003, "center_y":0.508368, "width":0.168803, "height":0.406179}, "confidence":0.715481}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.481251, "center_y":0.519295, "width":0.278028, "height":0.265541}, "confidence":0.582339}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.511034, "center_y":0.551055, "width":0.158277, "height":0.271122}, "confidence":0.369193}
+ ] 
+}, 
+{
+ "frame_id":79, 
+ "filename":"data/images_yolo/SIMATECIMAG33.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.682603, "center_y":0.405450, "width":0.231635, "height":0.239582}, "confidence":0.932815}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.317109, "center_y":0.478597, "width":0.262198, "height":0.199832}, "confidence":0.816917}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.336084, "center_y":0.381004, "width":0.062157, "height":0.060277}, "confidence":0.334440}
+ ] 
+}, 
+{
+ "frame_id":80, 
+ "filename":"data/images_yolo/photo76.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.477077, "center_y":0.486320, "width":0.042247, "height":0.062908}, "confidence":0.574574}
+ ] 
+}, 
+{
+ "frame_id":81, 
+ "filename":"data/images_yolo/LUIS ALEJANDROIMG817.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.515028, "center_y":0.748835, "width":0.222301, "height":0.136912}, "confidence":0.877800}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.526379, "center_y":0.511837, "width":0.265287, "height":0.295090}, "confidence":0.814577}
+ ] 
+}, 
+{
+ "frame_id":82, 
+ "filename":"data/images_yolo/SIMATECIMAG46.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.429074, "center_y":0.211186, "width":0.189752, "height":0.143378}, "confidence":0.937673}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.417887, "center_y":0.498071, "width":0.366230, "height":0.191872}, "confidence":0.848136}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.424403, "center_y":0.504413, "width":0.154497, "height":0.232509}, "confidence":0.608552}
+ ] 
+}, 
+{
+ "frame_id":83, 
+ "filename":"data/images_yolo/photo133.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.445907, "center_y":0.436297, "width":0.157931, "height":0.107501}, "confidence":0.696494}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.463513, "center_y":0.438582, "width":0.117833, "height":0.190627}, "confidence":0.250684}
+ ] 
+}, 
+{
+ "frame_id":84, 
+ "filename":"data/images_yolo/SIMATECIMAG20.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.400242, "center_y":0.136717, "width":0.209878, "height":0.260101}, "confidence":0.878854}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.390427, "center_y":0.142137, "width":0.396402, "height":0.163224}, "confidence":0.801621}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.411743, "center_y":0.136915, "width":0.237522, "height":0.213627}, "confidence":0.345325}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.398088, "center_y":0.487176, "width":0.215457, "height":0.229396}, "confidence":0.892071}
+ ] 
+}, 
+{
+ "frame_id":85, 
+ "filename":"data/images_yolo/PABLOIMG754.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.521710, "center_y":0.179573, "width":0.237891, "height":0.193153}, "confidence":0.806826}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.442004, "center_y":0.518657, "width":0.508648, "height":0.482929}, "confidence":0.309857}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.515511, "center_y":0.162352, "width":0.284331, "height":0.171573}, "confidence":0.673449}
+ ] 
+}, 
+{
+ "frame_id":86, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG707.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.430115, "center_y":0.259463, "width":0.245581, "height":0.241117}, "confidence":0.334530}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.594893, "center_y":0.557488, "width":0.198926, "height":0.247080}, "confidence":0.580152}
+ ] 
+}, 
+{
+ "frame_id":87, 
+ "filename":"data/images_yolo/SIMATECIMAG04.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.372881, "center_y":0.591517, "width":0.245932, "height":0.206843}, "confidence":0.952145}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.369931, "center_y":0.583513, "width":0.161409, "height":0.103143}, "confidence":0.943367}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.824038, "center_y":0.378488, "width":0.111148, "height":0.076218}, "confidence":0.833547}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.747732, "center_y":0.552926, "width":0.281687, "height":0.284421}, "confidence":0.651086}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.778806, "center_y":0.553744, "width":0.478767, "height":0.357492}, "confidence":0.335044}
+ ] 
+}, 
+{
+ "frame_id":88, 
+ "filename":"data/images_yolo/photo112.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.502511, "center_y":0.532775, "width":0.066600, "height":0.062997}, "confidence":0.924260}
+ ] 
+}, 
+{
+ "frame_id":89, 
+ "filename":"data/images_yolo/photo100.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.988363, "center_y":0.128027, "width":0.033027, "height":0.110016}, "confidence":0.303162}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.551232, "center_y":0.640929, "width":0.030259, "height":0.055711}, "confidence":0.844664}
+ ] 
+}, 
+{
+ "frame_id":90, 
+ "filename":"data/images_yolo/ADANIMG507.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.481717, "center_y":0.712250, "width":0.204531, "height":0.217788}, "confidence":0.942419}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.480055, "center_y":0.484258, "width":0.214122, "height":0.283923}, "confidence":0.912219}
+ ] 
+}, 
+{
+ "frame_id":91, 
+ "filename":"data/images_yolo/ARISTIDESIMG749.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.343880, "center_y":0.768078, "width":0.163885, "height":0.162094}, "confidence":0.889230}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.591421, "center_y":0.281388, "width":0.171237, "height":0.237761}, "confidence":0.782151}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.503254, "center_y":0.512352, "width":0.217640, "height":0.404337}, "confidence":0.286029}
+ ] 
+}, 
+{
+ "frame_id":92, 
+ "filename":"data/images_yolo/JOSE EMILIOIMG1430.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.379935, "center_y":0.292769, "width":0.272325, "height":0.243824}, "confidence":0.820669}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.398379, "center_y":0.584840, "width":0.372980, "height":0.331458}, "confidence":0.502390}
+ ] 
+}, 
+{
+ "frame_id":93, 
+ "filename":"data/images_yolo/VICENTEIMG1503.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.364368, "center_y":0.526163, "width":0.161312, "height":0.117184}, "confidence":0.972145}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.404821, "center_y":0.292427, "width":0.163722, "height":0.302303}, "confidence":0.842742}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.399583, "center_y":0.297804, "width":0.353262, "height":0.272139}, "confidence":0.820557}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.444912, "center_y":0.748763, "width":0.118501, "height":0.198206}, "confidence":0.503500}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.454829, "center_y":0.762425, "width":0.073316, "height":0.132866}, "confidence":0.390470}
+ ] 
+}, 
+{
+ "frame_id":94, 
+ "filename":"data/images_yolo/photo45.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.493834, "center_y":0.547011, "width":0.054855, "height":0.063689}, "confidence":0.919262}
+ ] 
+}, 
+{
+ "frame_id":95, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG806.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.475947, "center_y":0.824932, "width":0.221881, "height":0.298814}, "confidence":0.877825}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.477577, "center_y":0.816983, "width":0.337820, "height":0.183220}, "confidence":0.313045}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.546829, "center_y":0.560403, "width":0.214377, "height":0.231529}, "confidence":0.933623}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.531865, "center_y":0.563604, "width":0.307316, "height":0.356254}, "confidence":0.311427}
+ ] 
+}, 
+{
+ "frame_id":96, 
+ "filename":"data/images_yolo/photo38.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.544437, "center_y":0.482031, "width":0.136351, "height":0.116374}, "confidence":0.853486}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.548958, "center_y":0.483713, "width":0.228326, "height":0.202016}, "confidence":0.281343}
+ ] 
+}, 
+{
+ "frame_id":97, 
+ "filename":"data/images_yolo/photo34.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.490831, "center_y":0.476902, "width":0.072704, "height":0.084631}, "confidence":0.925178}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.425201, "center_y":0.586365, "width":0.025279, "height":0.039218}, "confidence":0.732779}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.508252, "center_y":0.588480, "width":0.019221, "height":0.022741}, "confidence":0.335063}
+ ] 
+}, 
+{
+ "frame_id":98, 
+ "filename":"data/images_yolo/RICARDOIMG719.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.477777, "center_y":0.509113, "width":0.143160, "height":0.091788}, "confidence":0.954205}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.471455, "center_y":0.504626, "width":0.141422, "height":0.185122}, "confidence":0.517325}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.437802, "center_y":0.342734, "width":0.051016, "height":0.044797}, "confidence":0.458653}
+ ] 
+}, 
+{
+ "frame_id":99, 
+ "filename":"data/images_yolo/JORGEIMG598.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.331126, "center_y":0.622407, "width":0.138454, "height":0.058317}, "confidence":0.989017}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.323756, "center_y":0.622471, "width":0.096606, "height":0.103502}, "confidence":0.987214}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.494461, "center_y":0.909237, "width":0.371283, "height":0.229037}, "confidence":0.305986}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.516597, "center_y":0.906969, "width":0.295703, "height":0.192065}, "confidence":0.669352}
+ ] 
+}, 
+{
+ "frame_id":100, 
+ "filename":"data/images_yolo/photo67.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.485536, "center_y":0.515275, "width":0.040373, "height":0.053141}, "confidence":0.602208}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.478529, "center_y":0.528985, "width":0.050477, "height":0.092878}, "confidence":0.458281}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.476648, "center_y":0.526343, "width":0.044260, "height":0.045508}, "confidence":0.389570}
+ ] 
+}, 
+{
+ "frame_id":101, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG706.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.524181, "center_y":0.703146, "width":0.245816, "height":0.243376}, "confidence":0.878067}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.518299, "center_y":0.692145, "width":0.159587, "height":0.158405}, "confidence":0.623033}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.587319, "center_y":0.401881, "width":0.168785, "height":0.304738}, "confidence":0.894280}
+ ] 
+}, 
+{
+ "frame_id":102, 
+ "filename":"data/images_yolo/SIMATECIMAG66.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.527266, "center_y":0.293779, "width":0.260236, "height":0.222248}, "confidence":0.931787}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.555815, "center_y":0.579318, "width":0.380452, "height":0.226205}, "confidence":0.836561}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.659758, "center_y":0.714900, "width":0.136819, "height":0.092891}, "confidence":0.752138}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.577240, "center_y":0.585967, "width":0.189963, "height":0.247549}, "confidence":0.318173}
+ ] 
+}, 
+{
+ "frame_id":103, 
+ "filename":"data/images_yolo/photo92.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.550658, "center_y":0.534526, "width":0.047206, "height":0.051975}, "confidence":0.743612}
+ ] 
+}, 
+{
+ "frame_id":104, 
+ "filename":"data/images_yolo/FABIOIMG1406.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.466944, "center_y":0.255717, "width":0.326738, "height":0.163983}, "confidence":0.771121}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.489662, "center_y":0.470125, "width":0.060119, "height":0.087945}, "confidence":0.545769}
+ ] 
+}, 
+{
+ "frame_id":105, 
+ "filename":"data/images_yolo/SIMATECIMAG47.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.526133, "center_y":0.316793, "width":0.279815, "height":0.281535}, "confidence":0.643972}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.526436, "center_y":0.716003, "width":0.264241, "height":0.291933}, "confidence":0.779712}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.522572, "center_y":0.300524, "width":0.201077, "height":0.284420}, "confidence":0.300377}
+ ] 
+}, 
+{
+ "frame_id":106, 
+ "filename":"data/images_yolo/LUIS ALEJANDROIMG675.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.476098, "center_y":0.593261, "width":0.161238, "height":0.129817}, "confidence":0.963235}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.482307, "center_y":0.393372, "width":0.251572, "height":0.253168}, "confidence":0.931642}
+ ] 
+}, 
+{
+ "frame_id":107, 
+ "filename":"data/images_yolo/photo40.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.506332, "center_y":0.533325, "width":0.197526, "height":0.131600}, "confidence":0.953026}
+ ] 
+}, 
+{
+ "frame_id":108, 
+ "filename":"data/images_yolo/ALVAROIMG556.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.476064, "center_y":0.408785, "width":0.181334, "height":0.165095}, "confidence":0.921412}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.633728, "center_y":0.100674, "width":0.185750, "height":0.179815}, "confidence":0.610653}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.494838, "center_y":0.672948, "width":0.289234, "height":0.372820}, "confidence":0.599527}
+ ] 
+}, 
+{
+ "frame_id":109, 
+ "filename":"data/images_yolo/SIMATECIMAG48.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.481916, "center_y":0.119206, "width":0.346345, "height":0.212754}, "confidence":0.875854}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.548891, "center_y":0.747589, "width":0.208623, "height":0.145690}, "confidence":0.908141}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.619453, "center_y":0.426153, "width":0.048004, "height":0.068227}, "confidence":0.867364}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.372143, "center_y":0.324689, "width":0.058568, "height":0.078430}, "confidence":0.459813}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.372581, "center_y":0.329825, "width":0.039914, "height":0.049030}, "confidence":0.391100}
+ ] 
+}, 
+{
+ "frame_id":110, 
+ "filename":"data/images_yolo/photo71.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.523715, "center_y":0.571468, "width":0.105627, "height":0.097662}, "confidence":0.859500}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.532646, "center_y":0.581159, "width":0.073219, "height":0.189298}, "confidence":0.280216}
+ ] 
+}, 
+{
+ "frame_id":111, 
+ "filename":"data/images_yolo/photo53.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.403893, "center_y":0.557610, "width":0.077611, "height":0.099070}, "confidence":0.938790}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.406434, "center_y":0.562810, "width":0.118129, "height":0.140894}, "confidence":0.339857}
+ ] 
+}, 
+{
+ "frame_id":112, 
+ "filename":"data/images_yolo/VICENTEIMG1495.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.398011, "center_y":0.321683, "width":0.297857, "height":0.527751}, "confidence":0.504275}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.392087, "center_y":0.641050, "width":0.188624, "height":0.227277}, "confidence":0.885670}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.389556, "center_y":0.643121, "width":0.335801, "height":0.290638}, "confidence":0.782271}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.377343, "center_y":0.326160, "width":0.323482, "height":0.396873}, "confidence":0.309030}
+ ] 
+}, 
+{
+ "frame_id":113, 
+ "filename":"data/images_yolo/JORGEIMG670.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.359712, "center_y":0.665559, "width":0.159500, "height":0.162234}, "confidence":0.982935}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.524588, "center_y":0.441269, "width":0.230226, "height":0.346975}, "confidence":0.363058}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.525096, "center_y":0.555267, "width":0.236703, "height":0.525129}, "confidence":0.297576}
+ ] 
+}, 
+{
+ "frame_id":114, 
+ "filename":"data/images_yolo/SIMATECIMAG10.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.400612, "center_y":0.288992, "width":0.199988, "height":0.182983}, "confidence":0.967717}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.428784, "center_y":0.528380, "width":0.170642, "height":0.140049}, "confidence":0.946410}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.414201, "center_y":0.529748, "width":0.298025, "height":0.193400}, "confidence":0.335996}
+ ] 
+}, 
+{
+ "frame_id":115, 
+ "filename":"data/images_yolo/photo48.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.549535, "center_y":0.391164, "width":0.195015, "height":0.082465}, "confidence":0.960240}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.551889, "center_y":0.391081, "width":0.154534, "height":0.164669}, "confidence":0.683662}
+ ] 
+}, 
+{
+ "frame_id":116, 
+ "filename":"data/images_yolo/SIMATECIMAG16.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.461571, "center_y":0.329551, "width":0.109656, "height":0.120277}, "confidence":0.945572}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.438312, "center_y":0.485826, "width":0.079825, "height":0.124262}, "confidence":0.940508}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.442268, "center_y":0.491129, "width":0.060694, "height":0.241848}, "confidence":0.577453}
+ ] 
+}, 
+{
+ "frame_id":117, 
+ "filename":"data/images_yolo/SIMATECIMAG01.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.627594, "center_y":0.452941, "width":0.188447, "height":0.173684}, "confidence":0.838037}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.796185, "center_y":0.489719, "width":0.116951, "height":0.082729}, "confidence":0.742426}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.399928, "center_y":0.331161, "width":0.136208, "height":0.105313}, "confidence":0.682362}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.386305, "center_y":0.333623, "width":0.065468, "height":0.131938}, "confidence":0.627587}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.394636, "center_y":0.554898, "width":0.090647, "height":0.036161}, "confidence":0.622598}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.791776, "center_y":0.482617, "width":0.133351, "height":0.155465}, "confidence":0.449852}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.375221, "center_y":0.419763, "width":0.137462, "height":0.073930}, "confidence":0.287664}
+ ] 
+}, 
+{
+ "frame_id":118, 
+ "filename":"data/images_yolo/photo30.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.493110, "center_y":0.501652, "width":0.048252, "height":0.049952}, "confidence":0.547309}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.457226, "center_y":0.568956, "width":0.012053, "height":0.021792}, "confidence":0.449161}
+ ] 
+}, 
+{
+ "frame_id":119, 
+ "filename":"data/images_yolo/photo11.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.540941, "center_y":0.540629, "width":0.014830, "height":0.017315}, "confidence":0.307184}
+ ] 
+}, 
+{
+ "frame_id":120, 
+ "filename":"data/images_yolo/photo1.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.581719, "center_y":0.493399, "width":0.035045, "height":0.045570}, "confidence":0.800587}
+ ] 
+}, 
+{
+ "frame_id":121, 
+ "filename":"data/images_yolo/SIMATECIMAG67.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.274713, "center_y":0.460238, "width":0.181698, "height":0.166296}, "confidence":0.931267}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.451638, "center_y":0.425596, "width":0.036397, "height":0.047135}, "confidence":0.800309}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.551716, "center_y":0.399143, "width":0.132045, "height":0.126393}, "confidence":0.757623}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.558894, "center_y":0.380299, "width":0.161086, "height":0.217995}, "confidence":0.439879}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.454221, "center_y":0.423044, "width":0.064362, "height":0.058752}, "confidence":0.437690}
+ ] 
+}, 
+{
+ "frame_id":122, 
+ "filename":"data/images_yolo/photo70.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.450740, "center_y":0.521291, "width":0.073000, "height":0.092148}, "confidence":0.855890}
+ ] 
+}, 
+{
+ "frame_id":123, 
+ "filename":"data/images_yolo/JOSE EMILIOIMG1436.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.322946, "center_y":0.221718, "width":0.214409, "height":0.181089}, "confidence":0.944820}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.436655, "center_y":0.438875, "width":0.236917, "height":0.311264}, "confidence":0.529531}
+ ] 
+}, 
+{
+ "frame_id":124, 
+ "filename":"data/images_yolo/photo113.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.515657, "center_y":0.517044, "width":0.037000, "height":0.042006}, "confidence":0.666550}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.522571, "center_y":0.607792, "width":0.014814, "height":0.019210}, "confidence":0.337621}
+ ] 
+}, 
+{
+ "frame_id":125, 
+ "filename":"data/images_yolo/JOSE EMILIOIMG1434.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.415274, "center_y":0.288765, "width":0.339165, "height":0.223297}, "confidence":0.952638}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.434878, "center_y":0.293231, "width":0.189727, "height":0.323052}, "confidence":0.904572}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.407942, "center_y":0.601471, "width":0.218122, "height":0.266826}, "confidence":0.700152}
+ ] 
+}, 
+{
+ "frame_id":126, 
+ "filename":"data/images_yolo/SIMATECIMAG19.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.370181, "center_y":0.098010, "width":0.227977, "height":0.216405}, "confidence":0.900461}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.363414, "center_y":0.400983, "width":0.208819, "height":0.260978}, "confidence":0.906116}
+ ] 
+}, 
+{
+ "frame_id":127, 
+ "filename":"data/images_yolo/photo12.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.522637, "center_y":0.520917, "width":0.016864, "height":0.019344}, "confidence":0.444907}
+ ] 
+}, 
+{
+ "frame_id":128, 
+ "filename":"data/images_yolo/SIMATECIMAG39.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.678529, "center_y":0.481051, "width":0.177569, "height":0.183951}, "confidence":0.983456}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.428182, "center_y":0.552246, "width":0.223073, "height":0.077775}, "confidence":0.850059}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.525839, "center_y":0.371831, "width":0.093707, "height":0.087627}, "confidence":0.447723}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.416023, "center_y":0.553195, "width":0.179890, "height":0.158679}, "confidence":0.263659}
+ ] 
+}, 
+{
+ "frame_id":129, 
+ "filename":"data/images_yolo/VICENTEIMG681.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.534159, "center_y":0.832752, "width":0.237425, "height":0.274167}, "confidence":0.810546}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.530286, "center_y":0.834482, "width":0.200631, "height":0.184934}, "confidence":0.263376}
+ ] 
+}, 
+{
+ "frame_id":130, 
+ "filename":"data/images_yolo/SIMATECIMAG44.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.274713, "center_y":0.460238, "width":0.181698, "height":0.166296}, "confidence":0.931267}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.451638, "center_y":0.425596, "width":0.036397, "height":0.047135}, "confidence":0.800309}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.551716, "center_y":0.399143, "width":0.132045, "height":0.126393}, "confidence":0.757623}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.558894, "center_y":0.380299, "width":0.161086, "height":0.217995}, "confidence":0.439879}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.454221, "center_y":0.423044, "width":0.064362, "height":0.058752}, "confidence":0.437690}
+ ] 
+}, 
+{
+ "frame_id":131, 
+ "filename":"data/images_yolo/SIMATECIMAG18.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.773170, "center_y":0.320390, "width":0.203226, "height":0.233151}, "confidence":0.879328}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.361927, "center_y":0.375784, "width":0.291735, "height":0.185547}, "confidence":0.855546}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.379045, "center_y":0.283082, "width":0.053851, "height":0.053571}, "confidence":0.306063}
+ ] 
+}, 
+{
+ "frame_id":132, 
+ "filename":"data/images_yolo/LEONARDOIMG710.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.494442, "center_y":0.717208, "width":0.581439, "height":0.373950}, "confidence":0.318894}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.494442, "center_y":0.717208, "width":0.581439, "height":0.373950}, "confidence":0.552228}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.664905, "center_y":0.470859, "width":0.064321, "height":0.059530}, "confidence":0.788128}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.664146, "center_y":0.484003, "width":0.088313, "height":0.056914}, "confidence":0.458219}
+ ] 
+}, 
+{
+ "frame_id":133, 
+ "filename":"data/images_yolo/photo129.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.494207, "center_y":0.502924, "width":0.039337, "height":0.057318}, "confidence":0.543429}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.503606, "center_y":0.497360, "width":0.030560, "height":0.045739}, "confidence":0.371681}
+ ] 
+}, 
+{
+ "frame_id":134, 
+ "filename":"data/images_yolo/photo125.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.403533, "center_y":0.526647, "width":0.077787, "height":0.062280}, "confidence":0.943512}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.297429, "center_y":0.681336, "width":0.088974, "height":0.051199}, "confidence":0.932378}
+ ] 
+}, 
+{
+ "frame_id":135, 
+ "filename":"data/images_yolo/RICARDOIMG654.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.509141, "center_y":0.666883, "width":0.179369, "height":0.114739}, "confidence":0.929941}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.516466, "center_y":0.477645, "width":0.118926, "height":0.110287}, "confidence":0.571848}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.511961, "center_y":0.459331, "width":0.066711, "height":0.055803}, "confidence":0.464522}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.513627, "center_y":0.536096, "width":0.049656, "height":0.047460}, "confidence":0.304833}
+ ] 
+}, 
+{
+ "frame_id":136, 
+ "filename":"data/images_yolo/photo139.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.479341, "center_y":0.534097, "width":0.019183, "height":0.047269}, "confidence":0.813266}
+ ] 
+}, 
+{
+ "frame_id":137, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG807.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.336827, "center_y":0.255568, "width":0.339692, "height":0.352508}, "confidence":0.739503}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.346597, "center_y":0.250135, "width":0.294839, "height":0.273600}, "confidence":0.322417}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.375335, "center_y":0.594043, "width":0.122097, "height":0.174885}, "confidence":0.525448}
+ ] 
+}, 
+{
+ "frame_id":138, 
+ "filename":"data/images_yolo/SIMATECIMAG55.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.489901, "center_y":0.395780, "width":0.141056, "height":0.073226}, "confidence":0.993214}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.488078, "center_y":0.515467, "width":0.089376, "height":0.069040}, "confidence":0.954322}
+ ] 
+}, 
+{
+ "frame_id":139, 
+ "filename":"data/images_yolo/photo94.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.622132, "center_y":0.680156, "width":0.098677, "height":0.052396}, "confidence":0.692626}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.523934, "center_y":0.420766, "width":0.150610, "height":0.067550}, "confidence":0.552560}
+ ] 
+}, 
+{
+ "frame_id":140, 
+ "filename":"data/images_yolo/SIMATECIMAG24.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.774848, "center_y":0.430919, "width":0.257585, "height":0.116898}, "confidence":0.964827}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.444856, "center_y":0.398608, "width":0.307989, "height":0.448536}, "confidence":0.381942}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.475247, "center_y":0.410131, "width":0.595122, "height":0.342579}, "confidence":0.326182}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.513791, "center_y":0.404823, "width":0.251021, "height":0.351213}, "confidence":0.273727}
+ ] 
+}, 
+{
+ "frame_id":141, 
+ "filename":"data/images_yolo/photo44.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.516191, "center_y":0.497412, "width":0.043402, "height":0.051015}, "confidence":0.852281}
+ ] 
+}, 
+{
+ "frame_id":142, 
+ "filename":"data/images_yolo/photo61.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.551798, "center_y":0.494417, "width":0.072037, "height":0.066940}, "confidence":0.897509}
+ ] 
+}, 
+{
+ "frame_id":143, 
+ "filename":"data/images_yolo/LEONARDOIMG711.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.554976, "center_y":0.758245, "width":0.167047, "height":0.146898}, "confidence":0.917713}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.591891, "center_y":0.612618, "width":0.102345, "height":0.109901}, "confidence":0.788962}
+ ] 
+}, 
+{
+ "frame_id":144, 
+ "filename":"data/images_yolo/photo15.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":145, 
+ "filename":"data/images_yolo/photo97.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.505030, "center_y":0.522243, "width":0.030663, "height":0.033427}, "confidence":0.876323}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.242830, "center_y":0.249386, "width":0.047215, "height":0.109923}, "confidence":0.404632}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.497994, "center_y":0.523039, "width":0.053485, "height":0.050358}, "confidence":0.351075}
+ ] 
+}, 
+{
+ "frame_id":146, 
+ "filename":"data/images_yolo/SIMATECIMAG35.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.459043, "center_y":0.491020, "width":0.191661, "height":0.208732}, "confidence":0.835990}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.447043, "center_y":0.788497, "width":0.164840, "height":0.152389}, "confidence":0.931672}
+ ] 
+}, 
+{
+ "frame_id":147, 
+ "filename":"data/images_yolo/ADANIMG702.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.589590, "center_y":0.698461, "width":0.194350, "height":0.207761}, "confidence":0.772247}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.590401, "center_y":0.686191, "width":0.219360, "height":0.198119}, "confidence":0.260396}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.611545, "center_y":0.377771, "width":0.072391, "height":0.091093}, "confidence":0.620871}
+ ] 
+}, 
+{
+ "frame_id":148, 
+ "filename":"data/images_yolo/VICENTEIMG1499.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.629754, "center_y":0.353212, "width":0.233867, "height":0.272102}, "confidence":0.758991}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.621898, "center_y":0.342699, "width":0.329685, "height":0.186861}, "confidence":0.481651}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.638086, "center_y":0.347793, "width":0.197250, "height":0.284704}, "confidence":0.538784}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.432333, "center_y":0.321670, "width":0.188070, "height":0.207670}, "confidence":0.909592}
+ ] 
+}, 
+{
+ "frame_id":149, 
+ "filename":"data/images_yolo/JORGEIMG671.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.519109, "center_y":0.738304, "width":0.256633, "height":0.325527}, "confidence":0.789554}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.521238, "center_y":0.742485, "width":0.202236, "height":0.372965}, "confidence":0.421940}
+ ] 
+}, 
+{
+ "frame_id":150, 
+ "filename":"data/images_yolo/photo35.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.550608, "center_y":0.421353, "width":0.071352, "height":0.081936}, "confidence":0.826025}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.450588, "center_y":0.488705, "width":0.020836, "height":0.032822}, "confidence":0.771999}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.448760, "center_y":0.490155, "width":0.029540, "height":0.049956}, "confidence":0.332936}
+ ] 
+}, 
+{
+ "frame_id":151, 
+ "filename":"data/images_yolo/ARISTIDESIMG744.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.509447, "center_y":0.863918, "width":0.219873, "height":0.285536}, "confidence":0.860901}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.540366, "center_y":0.661979, "width":0.119172, "height":0.111360}, "confidence":0.828382}
+ ] 
+}, 
+{
+ "frame_id":152, 
+ "filename":"data/images_yolo/photo78.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.552430, "center_y":0.420983, "width":0.040019, "height":0.039822}, "confidence":0.592831}
+ ] 
+}, 
+{
+ "frame_id":153, 
+ "filename":"data/images_yolo/photo87.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.488498, "center_y":0.503203, "width":0.061946, "height":0.043740}, "confidence":0.567308}
+ ] 
+}, 
+{
+ "frame_id":154, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG576.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.512340, "center_y":0.780895, "width":0.247679, "height":0.395624}, "confidence":0.831349}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.570373, "center_y":0.431153, "width":0.166968, "height":0.329584}, "confidence":0.725327}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.587746, "center_y":0.445761, "width":0.352989, "height":0.256819}, "confidence":0.461519}
+ ] 
+}, 
+{
+ "frame_id":155, 
+ "filename":"data/images_yolo/HECTORIMG708.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.551181, "center_y":0.624061, "width":0.208880, "height":0.164106}, "confidence":0.869079}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.548124, "center_y":0.468769, "width":0.047302, "height":0.032412}, "confidence":0.694206}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.530135, "center_y":0.472553, "width":0.069298, "height":0.061393}, "confidence":0.326484}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.509281, "center_y":0.477448, "width":0.035347, "height":0.038983}, "confidence":0.322992}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.508274, "center_y":0.482364, "width":0.019554, "height":0.022956}, "confidence":0.276493}
+ ] 
+}, 
+{
+ "frame_id":156, 
+ "filename":"data/images_yolo/SIMATECIMAG43.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.468169, "center_y":0.484442, "width":0.190837, "height":0.129028}, "confidence":0.959890}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.668130, "center_y":0.534561, "width":0.136386, "height":0.078993}, "confidence":0.823407}
+ ] 
+}, 
+{
+ "frame_id":157, 
+ "filename":"data/images_yolo/photo90.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":158, 
+ "filename":"data/images_yolo/photo88.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.452069, "center_y":0.553263, "width":0.026566, "height":0.037977}, "confidence":0.770474}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.452444, "center_y":0.555992, "width":0.043831, "height":0.056929}, "confidence":0.432948}
+ ] 
+}, 
+{
+ "frame_id":159, 
+ "filename":"data/images_yolo/JOSE EMILIOIMG1433.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.414830, "center_y":0.245952, "width":0.348404, "height":0.311257}, "confidence":0.895103}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.409479, "center_y":0.595147, "width":0.209377, "height":0.335989}, "confidence":0.678339}
+ ] 
+}, 
+{
+ "frame_id":160, 
+ "filename":"data/images_yolo/SIMATECIMAG53.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.547032, "center_y":0.397315, "width":0.163893, "height":0.167149}, "confidence":0.975568}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.697846, "center_y":0.431168, "width":0.168762, "height":0.235181}, "confidence":0.795775}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.697453, "center_y":0.423362, "width":0.433223, "height":0.205657}, "confidence":0.661152}
+ ] 
+}, 
+{
+ "frame_id":161, 
+ "filename":"data/images_yolo/LEONARDOIMG609.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.475102, "center_y":0.398659, "width":0.192435, "height":0.172047}, "confidence":0.934085}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.473820, "center_y":0.604308, "width":0.160589, "height":0.128428}, "confidence":0.963999}
+ ] 
+}, 
+{
+ "frame_id":162, 
+ "filename":"data/images_yolo/photo105.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.492362, "center_y":0.564826, "width":0.017834, "height":0.028699}, "confidence":0.579871}
+ ] 
+}, 
+{
+ "frame_id":163, 
+ "filename":"data/images_yolo/photo14.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.444867, "center_y":0.476469, "width":0.020440, "height":0.038888}, "confidence":0.307583}
+ ] 
+}, 
+{
+ "frame_id":164, 
+ "filename":"data/images_yolo/photo110.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.457166, "center_y":0.561323, "width":0.076427, "height":0.087100}, "confidence":0.708297}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.462685, "center_y":0.563261, "width":0.054692, "height":0.195291}, "confidence":0.641929}
+ ] 
+}, 
+{
+ "frame_id":165, 
+ "filename":"data/images_yolo/photo128.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.430398, "center_y":0.544724, "width":0.081379, "height":0.161318}, "confidence":0.902371}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.425068, "center_y":0.540368, "width":0.067207, "height":0.060948}, "confidence":0.432529}
+ ] 
+}, 
+{
+ "frame_id":166, 
+ "filename":"data/images_yolo/ARISTIDESIMG747.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.521055, "center_y":0.655583, "width":0.120937, "height":0.138356}, "confidence":0.866489}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.515380, "center_y":0.306665, "width":0.062880, "height":0.072997}, "confidence":0.789441}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.515841, "center_y":0.511849, "width":0.105791, "height":0.120844}, "confidence":0.722444}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.658356, "center_y":0.290495, "width":0.039460, "height":0.048712}, "confidence":0.698609}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.547889, "center_y":0.509176, "width":0.039879, "height":0.039823}, "confidence":0.642501}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.486688, "center_y":0.466822, "width":0.023840, "height":0.036399}, "confidence":0.260407}
+ ] 
+}, 
+{
+ "frame_id":167, 
+ "filename":"data/images_yolo/photo99.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.549208, "center_y":0.600233, "width":0.030493, "height":0.051888}, "confidence":0.859468}
+ ] 
+}, 
+{
+ "frame_id":168, 
+ "filename":"data/images_yolo/photo79.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.496799, "center_y":0.433140, "width":0.046531, "height":0.037132}, "confidence":0.693040}
+ ] 
+}, 
+{
+ "frame_id":169, 
+ "filename":"data/images_yolo/SIMATECIMAG26.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.315076, "center_y":0.511705, "width":0.157838, "height":0.142936}, "confidence":0.971805}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.632026, "center_y":0.511242, "width":0.194483, "height":0.393602}, "confidence":0.473142}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.603232, "center_y":0.563205, "width":0.306341, "height":0.237431}, "confidence":0.271684}
+ ] 
+}, 
+{
+ "frame_id":170, 
+ "filename":"data/images_yolo/SIMATECIMAG41.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.459401, "center_y":0.483884, "width":0.165661, "height":0.181240}, "confidence":0.967942}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.460361, "center_y":0.485583, "width":0.115402, "height":0.117361}, "confidence":0.712677}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.604234, "center_y":0.428984, "width":0.059255, "height":0.040914}, "confidence":0.362253}
+ ] 
+}, 
+{
+ "frame_id":171, 
+ "filename":"data/images_yolo/photo98.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.509791, "center_y":0.513071, "width":0.023393, "height":0.041294}, "confidence":0.879660}
+ ] 
+}, 
+{
+ "frame_id":172, 
+ "filename":"data/images_yolo/photo73.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.451920, "center_y":0.598716, "width":0.075226, "height":0.060982}, "confidence":0.641595}
+ ] 
+}, 
+{
+ "frame_id":173, 
+ "filename":"data/images_yolo/photo22.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.467685, "center_y":0.339920, "width":0.027149, "height":0.039371}, "confidence":0.619528}
+ ] 
+}, 
+{
+ "frame_id":174, 
+ "filename":"data/images_yolo/VICENTEIMG682.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.432391, "center_y":0.675600, "width":0.217784, "height":0.159628}, "confidence":0.963503}
+ ] 
+}, 
+{
+ "frame_id":175, 
+ "filename":"data/images_yolo/ARISTIDESIMG726.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.557957, "center_y":0.671796, "width":0.315727, "height":0.232490}, "confidence":0.896226}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.557443, "center_y":0.441041, "width":0.086667, "height":0.049604}, "confidence":0.770394}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.556101, "center_y":0.444665, "width":0.055425, "height":0.081127}, "confidence":0.460195}
+ ] 
+}, 
+{
+ "frame_id":176, 
+ "filename":"data/images_yolo/photo55.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.487316, "center_y":0.459585, "width":0.058416, "height":0.069502}, "confidence":0.394373}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.490109, "center_y":0.463316, "width":0.040558, "height":0.047479}, "confidence":0.357345}
+ ] 
+}, 
+{
+ "frame_id":177, 
+ "filename":"data/images_yolo/photo23.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.469155, "center_y":0.434106, "width":0.022531, "height":0.034979}, "confidence":0.662852}
+ ] 
+}, 
+{
+ "frame_id":178, 
+ "filename":"data/images_yolo/SIMATECIMAG03.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.752747, "center_y":0.601502, "width":0.241282, "height":0.108295}, "confidence":0.959917}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.753203, "center_y":0.593278, "width":0.209857, "height":0.222027}, "confidence":0.941288}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.407363, "center_y":0.599646, "width":0.090954, "height":0.046780}, "confidence":0.799605}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.334124, "center_y":0.588559, "width":0.042018, "height":0.045739}, "confidence":0.670901}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.861602, "center_y":0.481648, "width":0.285256, "height":0.062623}, "confidence":0.618125}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.397683, "center_y":0.392020, "width":0.049458, "height":0.087768}, "confidence":0.609241}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.398920, "center_y":0.466864, "width":0.115686, "height":0.062743}, "confidence":0.580581}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.323240, "center_y":0.516829, "width":0.036911, "height":0.047672}, "confidence":0.387241}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.860375, "center_y":0.479566, "width":0.213216, "height":0.118931}, "confidence":0.384632}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.776597, "center_y":0.489632, "width":0.073949, "height":0.045007}, "confidence":0.306874}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.411081, "center_y":0.468391, "width":0.098031, "height":0.038002}, "confidence":0.273358}
+ ] 
+}, 
+{
+ "frame_id":179, 
+ "filename":"data/images_yolo/photo25.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.423375, "center_y":0.566547, "width":0.064020, "height":0.169532}, "confidence":0.870424}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.423351, "center_y":0.560651, "width":0.080469, "height":0.079039}, "confidence":0.683224}
+ ] 
+}, 
+{
+ "frame_id":180, 
+ "filename":"data/images_yolo/ADANIMG532.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.505153, "center_y":0.320266, "width":0.117948, "height":0.110796}, "confidence":0.940322}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.506838, "center_y":0.479392, "width":0.192490, "height":0.228414}, "confidence":0.838749}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.500794, "center_y":0.485130, "width":0.172423, "height":0.503669}, "confidence":0.261352}
+ ] 
+}, 
+{
+ "frame_id":181, 
+ "filename":"data/images_yolo/photo119.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.498898, "center_y":0.503174, "width":0.034141, "height":0.055975}, "confidence":0.780592}
+ ] 
+}, 
+{
+ "frame_id":182, 
+ "filename":"data/images_yolo/HECTORIMG587.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.408627, "center_y":0.439019, "width":0.218540, "height":0.132420}, "confidence":0.963232}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.471426, "center_y":0.572218, "width":0.087041, "height":0.077506}, "confidence":0.654603}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.453001, "center_y":0.566801, "width":0.067327, "height":0.064121}, "confidence":0.592790}
+ ] 
+}, 
+{
+ "frame_id":183, 
+ "filename":"data/images_yolo/JOSE EMILIOIMG1428.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.526907, "center_y":0.335621, "width":0.196150, "height":0.221939}, "confidence":0.912370}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.596498, "center_y":0.636541, "width":0.223002, "height":0.504199}, "confidence":0.487729}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.632447, "center_y":0.559134, "width":0.263450, "height":0.345103}, "confidence":0.281072}
+ ] 
+}, 
+{
+ "frame_id":184, 
+ "filename":"data/images_yolo/FELIXIMG811.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.530662, "center_y":0.827945, "width":0.267592, "height":0.255245}, "confidence":0.810686}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.563252, "center_y":0.433725, "width":0.162951, "height":0.459580}, "confidence":0.691719}
+ ] 
+}, 
+{
+ "frame_id":185, 
+ "filename":"data/images_yolo/SIMATECIMAG25.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.369640, "center_y":0.449527, "width":0.202869, "height":0.197707}, "confidence":0.980029}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.369909, "center_y":0.720119, "width":0.240076, "height":0.157658}, "confidence":0.940565}
+ ] 
+}, 
+{
+ "frame_id":186, 
+ "filename":"data/images_yolo/photo29.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.410489, "center_y":0.553488, "width":0.067489, "height":0.092072}, "confidence":0.603323}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.411213, "center_y":0.551390, "width":0.043005, "height":0.062265}, "confidence":0.475807}
+ ] 
+}, 
+{
+ "frame_id":187, 
+ "filename":"data/images_yolo/SIMATECIMAG08.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.452502, "center_y":0.832281, "width":0.173913, "height":0.233144}, "confidence":0.932035}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.467235, "center_y":0.639700, "width":0.029353, "height":0.045599}, "confidence":0.313489}
+ ] 
+}, 
+{
+ "frame_id":188, 
+ "filename":"data/images_yolo/SIMATECIMAG40.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.476654, "center_y":0.509485, "width":0.167242, "height":0.157646}, "confidence":0.975428}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.472665, "center_y":0.764846, "width":0.147421, "height":0.119953}, "confidence":0.882229}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.483542, "center_y":0.776183, "width":0.148434, "height":0.252001}, "confidence":0.265026}
+ ] 
+}, 
+{
+ "frame_id":189, 
+ "filename":"data/images_yolo/photo138.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.516726, "center_y":0.544277, "width":0.038753, "height":0.069316}, "confidence":0.692249}
+ ] 
+}, 
+{
+ "frame_id":190, 
+ "filename":"data/images_yolo/SIMATECIMAG63.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.488405, "center_y":0.558895, "width":0.113087, "height":0.067551}, "confidence":0.958632}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.488663, "center_y":0.555416, "width":0.103937, "height":0.148494}, "confidence":0.733007}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.502402, "center_y":0.471604, "width":0.075288, "height":0.105380}, "confidence":0.816956}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.502845, "center_y":0.465412, "width":0.071092, "height":0.047511}, "confidence":0.288927}
+ ] 
+}, 
+{
+ "frame_id":191, 
+ "filename":"data/images_yolo/SIMATECIMAG09.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.796675, "center_y":0.540153, "width":0.276124, "height":0.120001}, "confidence":0.964097}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.810202, "center_y":0.560781, "width":0.177892, "height":0.182272}, "confidence":0.900046}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.251231, "center_y":0.534303, "width":0.144339, "height":0.093138}, "confidence":0.507784}
+ ] 
+}, 
+{
+ "frame_id":192, 
+ "filename":"data/images_yolo/SIMATECIMAG02.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.770943, "center_y":0.609171, "width":0.297609, "height":0.099705}, "confidence":0.888231}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.362523, "center_y":0.406063, "width":0.075295, "height":0.046453}, "confidence":0.738884}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.470920, "center_y":0.612629, "width":0.190716, "height":0.079029}, "confidence":0.665926}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.480682, "center_y":0.487553, "width":0.057176, "height":0.059038}, "confidence":0.658311}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.106829, "center_y":0.220391, "width":0.063950, "height":0.072748}, "confidence":0.440524}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.035489, "center_y":0.337427, "width":0.081817, "height":0.050505}, "confidence":0.259451}
+ ] 
+}, 
+{
+ "frame_id":193, 
+ "filename":"data/images_yolo/VICENTEIMG1500.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.372472, "center_y":0.289629, "width":0.318348, "height":0.353062}, "confidence":0.766042}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.364087, "center_y":0.294695, "width":0.456946, "height":0.340979}, "confidence":0.464339}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.373229, "center_y":0.294563, "width":0.232565, "height":0.270850}, "confidence":0.540452}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.366443, "center_y":0.557944, "width":0.244832, "height":0.255795}, "confidence":0.553520}
+ ] 
+}, 
+{
+ "frame_id":194, 
+ "filename":"data/images_yolo/SIMATECIMAG57.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.492048, "center_y":0.504280, "width":0.138574, "height":0.055189}, "confidence":0.979611}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.487063, "center_y":0.504154, "width":0.100069, "height":0.106258}, "confidence":0.974973}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.494447, "center_y":0.610474, "width":0.143127, "height":0.099807}, "confidence":0.737280}
+ ] 
+}, 
+{
+ "frame_id":195, 
+ "filename":"data/images_yolo/photo43.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.517537, "center_y":0.483562, "width":0.093825, "height":0.072374}, "confidence":0.955187}
+ ] 
+}, 
+{
+ "frame_id":196, 
+ "filename":"data/images_yolo/HECTORIMG589.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.546683, "center_y":0.582734, "width":0.187259, "height":0.183730}, "confidence":0.716972}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.547301, "center_y":0.571549, "width":0.189437, "height":0.177303}, "confidence":0.349401}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.533747, "center_y":0.456193, "width":0.047149, "height":0.041247}, "confidence":0.774583}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.494063, "center_y":0.454614, "width":0.024054, "height":0.036988}, "confidence":0.334319}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.520204, "center_y":0.453685, "width":0.105740, "height":0.049647}, "confidence":0.268868}
+ ] 
+}, 
+{
+ "frame_id":197, 
+ "filename":"data/images_yolo/VICENTEIMG680.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.415860, "center_y":0.527869, "width":0.181902, "height":0.160748}, "confidence":0.957152}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.647459, "center_y":0.533893, "width":0.037977, "height":0.043056}, "confidence":0.268595}
+ ] 
+}, 
+{
+ "frame_id":198, 
+ "filename":"data/images_yolo/photo116.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.488410, "center_y":0.508427, "width":0.049199, "height":0.034800}, "confidence":0.732681}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.525414, "center_y":0.523683, "width":0.024957, "height":0.030221}, "confidence":0.510115}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.507560, "center_y":0.738598, "width":0.013806, "height":0.031058}, "confidence":0.473749}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.476848, "center_y":0.504603, "width":0.031715, "height":0.030304}, "confidence":0.452011}
+ ] 
+}, 
+{
+ "frame_id":199, 
+ "filename":"data/images_yolo/SIMATECIMAG32.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.519816, "center_y":0.363535, "width":0.161541, "height":0.094393}, "confidence":0.994868}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.527292, "center_y":0.347719, "width":0.085467, "height":0.137552}, "confidence":0.349173}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.485987, "center_y":0.595644, "width":0.091362, "height":0.094347}, "confidence":0.846034}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.491178, "center_y":0.600688, "width":0.052420, "height":0.069418}, "confidence":0.742942}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.544315, "center_y":0.589041, "width":0.018187, "height":0.026948}, "confidence":0.296950}
+ ] 
+}, 
+{
+ "frame_id":200, 
+ "filename":"data/images_yolo/photo49.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.508853, "center_y":0.560330, "width":0.133841, "height":0.155656}, "confidence":0.932028}
+ ] 
+}, 
+{
+ "frame_id":201, 
+ "filename":"data/images_yolo/SIMATECIMAG15.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.503419, "center_y":0.449168, "width":0.081745, "height":0.087378}, "confidence":0.885064}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.500436, "center_y":0.442386, "width":0.041702, "height":0.072319}, "confidence":0.688309}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.500492, "center_y":0.440264, "width":0.084727, "height":0.034787}, "confidence":0.662916}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.485801, "center_y":0.550490, "width":0.044535, "height":0.096314}, "confidence":0.920225}
+ ] 
+}, 
+{
+ "frame_id":202, 
+ "filename":"data/images_yolo/photo60.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.483762, "center_y":0.484942, "width":0.100723, "height":0.083245}, "confidence":0.555540}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.531463, "center_y":0.451385, "width":0.017710, "height":0.024744}, "confidence":0.514363}
+ ] 
+}, 
+{
+ "frame_id":203, 
+ "filename":"data/images_yolo/ARISTIDESIMG745.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.530613, "center_y":0.406957, "width":0.111230, "height":0.056636}, "confidence":0.983435}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.524354, "center_y":0.405461, "width":0.076234, "height":0.111307}, "confidence":0.971853}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.459375, "center_y":0.708727, "width":0.050045, "height":0.055648}, "confidence":0.795690}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.558577, "center_y":0.560784, "width":0.089792, "height":0.088470}, "confidence":0.746274}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.522445, "center_y":0.929972, "width":0.049252, "height":0.052310}, "confidence":0.523234}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.449124, "center_y":0.708389, "width":0.077013, "height":0.087587}, "confidence":0.419006}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.352153, "center_y":0.746452, "width":0.025834, "height":0.034395}, "confidence":0.322966}
+ ] 
+}, 
+{
+ "frame_id":204, 
+ "filename":"data/images_yolo/RICARDOIMG718.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.549639, "center_y":0.752548, "width":0.157945, "height":0.179785}, "confidence":0.341455}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.481027, "center_y":0.760813, "width":0.105187, "height":0.092165}, "confidence":0.282057}
+ ] 
+}, 
+{
+ "frame_id":205, 
+ "filename":"data/images_yolo/photo143.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.476859, "center_y":0.487898, "width":0.095524, "height":0.101785}, "confidence":0.887559}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.439320, "center_y":0.487021, "width":0.031624, "height":0.061069}, "confidence":0.478631}
+ ] 
+}, 
+{
+ "frame_id":206, 
+ "filename":"data/images_yolo/photo46.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.465170, "center_y":0.456567, "width":0.153168, "height":0.093761}, "confidence":0.927189}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.469138, "center_y":0.455030, "width":0.127738, "height":0.186347}, "confidence":0.683438}
+ ] 
+}, 
+{
+ "frame_id":207, 
+ "filename":"data/images_yolo/SIMATECIMAG13.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.530961, "center_y":0.547762, "width":0.123785, "height":0.041971}, "confidence":0.996024}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.522807, "center_y":0.547962, "width":0.076427, "height":0.090016}, "confidence":0.993694}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.514737, "center_y":0.650188, "width":0.088706, "height":0.082169}, "confidence":0.777843}
+ ] 
+}, 
+{
+ "frame_id":208, 
+ "filename":"data/images_yolo/JOSE EMILIOIMG1431.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.600790, "center_y":0.260794, "width":0.195173, "height":0.186433}, "confidence":0.924572}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.577963, "center_y":0.596780, "width":0.284435, "height":0.314575}, "confidence":0.594846}
+ ] 
+}, 
+{
+ "frame_id":209, 
+ "filename":"data/images_yolo/photo135.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.502731, "center_y":0.491275, "width":0.018640, "height":0.027783}, "confidence":0.677805}
+ ] 
+}, 
+{
+ "frame_id":210, 
+ "filename":"data/images_yolo/photo109.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.548521, "center_y":0.510760, "width":0.066892, "height":0.115517}, "confidence":0.959121}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.541791, "center_y":0.507889, "width":0.073064, "height":0.057127}, "confidence":0.569578}
+ ] 
+}, 
+{
+ "frame_id":211, 
+ "filename":"data/images_yolo/MELQUISEDECIMG1456.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.424419, "center_y":0.227610, "width":0.266788, "height":0.151584}, "confidence":0.971489}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.448994, "center_y":0.225776, "width":0.203870, "height":0.343038}, "confidence":0.644496}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.558678, "center_y":0.502704, "width":0.361208, "height":0.329376}, "confidence":0.430362}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.523898, "center_y":0.487329, "width":0.194052, "height":0.263089}, "confidence":0.319819}
+ ] 
+}, 
+{
+ "frame_id":212, 
+ "filename":"data/images_yolo/SIMATECIMAG11.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.483606, "center_y":0.333292, "width":0.225584, "height":0.215179}, "confidence":0.910068}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.507813, "center_y":0.533425, "width":0.032233, "height":0.038462}, "confidence":0.708886}
+ ] 
+}, 
+{
+ "frame_id":213, 
+ "filename":"data/images_yolo/SIMATECIMAG05.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.516327, "center_y":0.243531, "width":0.171613, "height":0.173807}, "confidence":0.956740}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.496797, "center_y":0.444095, "width":0.035145, "height":0.055292}, "confidence":0.732642}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.558296, "center_y":0.639319, "width":0.119602, "height":0.075739}, "confidence":0.335549}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.496763, "center_y":0.440949, "width":0.055542, "height":0.077919}, "confidence":0.281283}
+ ] 
+}, 
+{
+ "frame_id":214, 
+ "filename":"data/images_yolo/photo27.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.454399, "center_y":0.528228, "width":0.030621, "height":0.050556}, "confidence":0.791898}
+ ] 
+}, 
+{
+ "frame_id":215, 
+ "filename":"data/images_yolo/RICARDOIMG652.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.503218, "center_y":0.478155, "width":0.142311, "height":0.131149}, "confidence":0.938947}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.536331, "center_y":0.576291, "width":0.058164, "height":0.072568}, "confidence":0.522020}
+ ] 
+}, 
+{
+ "frame_id":216, 
+ "filename":"data/images_yolo/ALFONSOIMG523.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.408199, "center_y":0.256578, "width":0.221203, "height":0.227424}, "confidence":0.924413}
+ ] 
+}, 
+{
+ "frame_id":217, 
+ "filename":"data/images_yolo/MELQUISEDECIMG1463.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.437904, "center_y":0.199994, "width":0.265730, "height":0.348002}, "confidence":0.873924}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.437233, "center_y":0.203328, "width":0.231280, "height":0.393999}, "confidence":0.364954}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.447718, "center_y":0.484560, "width":0.195863, "height":0.257779}, "confidence":0.728247}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.477435, "center_y":0.507748, "width":0.448851, "height":0.357293}, "confidence":0.448884}
+ ] 
+}, 
+{
+ "frame_id":218, 
+ "filename":"data/images_yolo/photo145.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.514067, "center_y":0.545421, "width":0.069379, "height":0.089408}, "confidence":0.650018}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.517865, "center_y":0.550643, "width":0.071759, "height":0.180271}, "confidence":0.342674}
+ ] 
+}, 
+{
+ "frame_id":219, 
+ "filename":"data/images_yolo/LUIS ALEJANDROIMG674.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.551677, "center_y":0.678446, "width":0.159866, "height":0.174793}, "confidence":0.717731}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.552350, "center_y":0.678632, "width":0.193312, "height":0.250281}, "confidence":0.305804}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.550212, "center_y":0.446277, "width":0.133335, "height":0.165799}, "confidence":0.957901}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.560839, "center_y":0.450902, "width":0.090119, "height":0.282914}, "confidence":0.829108}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.552896, "center_y":0.440294, "width":0.262385, "height":0.199894}, "confidence":0.489816}
+ ] 
+}, 
+{
+ "frame_id":220, 
+ "filename":"data/images_yolo/HECTORIMG588.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.405826, "center_y":0.279928, "width":0.233215, "height":0.313991}, "confidence":0.883019}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.393971, "center_y":0.265254, "width":0.346877, "height":0.291747}, "confidence":0.485861}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.439154, "center_y":0.446025, "width":0.121710, "height":0.109902}, "confidence":0.900210}
+ ] 
+}, 
+{
+ "frame_id":221, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG804.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.505078, "center_y":0.754069, "width":0.390576, "height":0.508628}, "confidence":0.391808}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.505078, "center_y":0.754069, "width":0.390576, "height":0.508628}, "confidence":0.698987}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.555537, "center_y":0.451563, "width":0.190420, "height":0.122143}, "confidence":0.950491}
+ ] 
+}, 
+{
+ "frame_id":222, 
+ "filename":"data/images_yolo/LEONARDOIMG716.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.558512, "center_y":0.628616, "width":0.203977, "height":0.200395}, "confidence":0.853100}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.552227, "center_y":0.617889, "width":0.196728, "height":0.214265}, "confidence":0.313937}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.410821, "center_y":0.370110, "width":0.052439, "height":0.067390}, "confidence":0.610491}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.535602, "center_y":0.435248, "width":0.041893, "height":0.059100}, "confidence":0.358929}
+ ] 
+}, 
+{
+ "frame_id":223, 
+ "filename":"data/images_yolo/photo72.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.451549, "center_y":0.545755, "width":0.075462, "height":0.069579}, "confidence":0.866083}
+ ] 
+}, 
+{
+ "frame_id":224, 
+ "filename":"data/images_yolo/photo106.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.542931, "center_y":0.575215, "width":0.014705, "height":0.031831}, "confidence":0.338598}
+ ] 
+}, 
+{
+ "frame_id":225, 
+ "filename":"data/images_yolo/LEONARDOIMG606.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.595248, "center_y":0.124204, "width":0.146337, "height":0.186417}, "confidence":0.958128}
+ ] 
+}, 
+{
+ "frame_id":226, 
+ "filename":"data/images_yolo/ADANIMG699.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.489902, "center_y":0.723177, "width":0.205026, "height":0.143325}, "confidence":0.901254}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.476594, "center_y":0.704101, "width":0.265850, "height":0.144970}, "confidence":0.418240}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.526262, "center_y":0.405963, "width":0.201122, "height":0.407530}, "confidence":0.642556}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.602657, "center_y":0.557893, "width":0.192875, "height":0.332851}, "confidence":0.543311}
+ ] 
+}, 
+{
+ "frame_id":227, 
+ "filename":"data/images_yolo/photo126.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.451030, "center_y":0.546103, "width":0.069659, "height":0.088600}, "confidence":0.940584}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.340253, "center_y":0.702249, "width":0.089119, "height":0.048959}, "confidence":0.905443}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.448389, "center_y":0.541849, "width":0.088495, "height":0.045832}, "confidence":0.668355}
+ ] 
+}, 
+{
+ "frame_id":228, 
+ "filename":"data/images_yolo/photo117.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.566979, "center_y":0.476751, "width":0.058517, "height":0.036718}, "confidence":0.671645}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.645936, "center_y":0.664268, "width":0.014545, "height":0.031204}, "confidence":0.647726}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.600921, "center_y":0.478086, "width":0.034876, "height":0.037482}, "confidence":0.410460}
+ ] 
+}, 
+{
+ "frame_id":229, 
+ "filename":"data/images_yolo/photo85.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.527875, "center_y":0.488490, "width":0.031985, "height":0.059786}, "confidence":0.780463}
+ ] 
+}, 
+{
+ "frame_id":230, 
+ "filename":"data/images_yolo/photo19.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.513890, "center_y":0.476358, "width":0.099789, "height":0.138300}, "confidence":0.943932}
+ ] 
+}, 
+{
+ "frame_id":231, 
+ "filename":"data/images_yolo/VICENTEIMG1505.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.665015, "center_y":0.405500, "width":0.237469, "height":0.251753}, "confidence":0.913154}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.473132, "center_y":0.181928, "width":0.153974, "height":0.114201}, "confidence":0.921715}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.467664, "center_y":0.663737, "width":0.166104, "height":0.123648}, "confidence":0.883940}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.471227, "center_y":0.656791, "width":0.397961, "height":0.165631}, "confidence":0.643761}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.623491, "center_y":0.941657, "width":0.121701, "height":0.128813}, "confidence":0.575935}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.445816, "center_y":0.362194, "width":0.091294, "height":0.088790}, "confidence":0.509103}
+ ] 
+}, 
+{
+ "frame_id":232, 
+ "filename":"data/images_yolo/photo2.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.567523, "center_y":0.514211, "width":0.103151, "height":0.086283}, "confidence":0.890612}
+ ] 
+}, 
+{
+ "frame_id":233, 
+ "filename":"data/images_yolo/photo13.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.494359, "center_y":0.522872, "width":0.031961, "height":0.026225}, "confidence":0.473239}
+ ] 
+}, 
+{
+ "frame_id":234, 
+ "filename":"data/images_yolo/JOSE EMILIOIMG1432.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.600790, "center_y":0.260794, "width":0.195173, "height":0.186433}, "confidence":0.924572}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.577963, "center_y":0.596780, "width":0.284435, "height":0.314575}, "confidence":0.594846}
+ ] 
+}, 
+{
+ "frame_id":235, 
+ "filename":"data/images_yolo/LUIS ALEJANDROIMG673.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.517240, "center_y":0.742031, "width":0.092562, "height":0.044287}, "confidence":0.960229}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.510403, "center_y":0.740241, "width":0.058685, "height":0.080167}, "confidence":0.902505}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.563489, "center_y":0.395008, "width":0.056057, "height":0.101159}, "confidence":0.734836}
+ ] 
+}, 
+{
+ "frame_id":236, 
+ "filename":"data/images_yolo/PABLOIMG752.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.439010, "center_y":0.674262, "width":0.196283, "height":0.275815}, "confidence":0.311396}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.439010, "center_y":0.674262, "width":0.196283, "height":0.275815}, "confidence":0.666572}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.424860, "center_y":0.676198, "width":0.317318, "height":0.153054}, "confidence":0.460879}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.424860, "center_y":0.676198, "width":0.317318, "height":0.153054}, "confidence":0.436793}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.416415, "center_y":0.011899, "width":0.048462, "height":0.032742}, "confidence":0.257035}
+ ] 
+}, 
+{
+ "frame_id":237, 
+ "filename":"data/images_yolo/photo51.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.469681, "center_y":0.515659, "width":0.092156, "height":0.121105}, "confidence":0.898703}
+ ] 
+}, 
+{
+ "frame_id":238, 
+ "filename":"data/images_yolo/PABLOIMG643.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.472997, "center_y":0.749352, "width":0.175962, "height":0.128242}, "confidence":0.534191}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.472865, "center_y":0.749876, "width":0.164045, "height":0.133192}, "confidence":0.391067}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.523469, "center_y":0.598599, "width":0.245063, "height":0.283940}, "confidence":0.839952}
+ ] 
+}, 
+{
+ "frame_id":239, 
+ "filename":"data/images_yolo/photo65.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.476903, "center_y":0.588649, "width":0.023047, "height":0.036709}, "confidence":0.369347}
+ ] 
+}, 
+{
+ "frame_id":240, 
+ "filename":"data/images_yolo/photo95.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.509406, "center_y":0.520477, "width":0.125299, "height":0.189434}, "confidence":0.719671}
+ ] 
+}, 
+{
+ "frame_id":241, 
+ "filename":"data/images_yolo/photo41.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.489929, "center_y":0.526001, "width":0.168048, "height":0.231481}, "confidence":0.865234}
+ ] 
+}, 
+{
+ "frame_id":242, 
+ "filename":"data/images_yolo/SIMATECIMAG23.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.451533, "center_y":0.335194, "width":0.132965, "height":0.206364}, "confidence":0.950479}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.452335, "center_y":0.362307, "width":0.209287, "height":0.324231}, "confidence":0.321336}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.351684, "center_y":0.581832, "width":0.038323, "height":0.044569}, "confidence":0.722470}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.532502, "center_y":0.603461, "width":0.092709, "height":0.092508}, "confidence":0.706209}
+ ] 
+}, 
+{
+ "frame_id":243, 
+ "filename":"data/images_yolo/ADANIMG534.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.594217, "center_y":0.708316, "width":0.146275, "height":0.143349}, "confidence":0.962607}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.622458, "center_y":0.439307, "width":0.210267, "height":0.377322}, "confidence":0.570822}
+ ] 
+}, 
+{
+ "frame_id":244, 
+ "filename":"data/images_yolo/SIMATECIMAG50.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.431783, "center_y":0.453806, "width":0.092098, "height":0.080332}, "confidence":0.959731}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.434073, "center_y":0.601680, "width":0.106348, "height":0.107632}, "confidence":0.920852}
+ ] 
+}, 
+{
+ "frame_id":245, 
+ "filename":"data/images_yolo/VICENTEIMG1507.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.632048, "center_y":0.335915, "width":0.295608, "height":0.271533}, "confidence":0.897905}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.631625, "center_y":0.336519, "width":0.263975, "height":0.310266}, "confidence":0.360115}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.546348, "center_y":0.593241, "width":0.100631, "height":0.096347}, "confidence":0.837970}
+ ] 
+}, 
+{
+ "frame_id":246, 
+ "filename":"data/images_yolo/SIMATECIMAG28.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.611050, "center_y":0.608229, "width":0.133902, "height":0.106345}, "confidence":0.842315}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.375409, "center_y":0.675802, "width":0.095040, "height":0.082934}, "confidence":0.933748}
+ ] 
+}, 
+{
+ "frame_id":247, 
+ "filename":"data/images_yolo/SIMATECIMAG62.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.492048, "center_y":0.504280, "width":0.138574, "height":0.055189}, "confidence":0.979611}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.487063, "center_y":0.504154, "width":0.100069, "height":0.106258}, "confidence":0.974973}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.494447, "center_y":0.610474, "width":0.143127, "height":0.099807}, "confidence":0.737280}
+ ] 
+}, 
+{
+ "frame_id":248, 
+ "filename":"data/images_yolo/photo32.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.494708, "center_y":0.483653, "width":0.045239, "height":0.054185}, "confidence":0.839184}
+ ] 
+}, 
+{
+ "frame_id":249, 
+ "filename":"data/images_yolo/ADANIMG509.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.543664, "center_y":0.669571, "width":0.239068, "height":0.136598}, "confidence":0.914645}
+ ] 
+}, 
+{
+ "frame_id":250, 
+ "filename":"data/images_yolo/photo8.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":251, 
+ "filename":"data/images_yolo/photo3.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.544434, "center_y":0.507557, "width":0.079160, "height":0.140605}, "confidence":0.898123}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.539890, "center_y":0.505220, "width":0.087080, "height":0.063266}, "confidence":0.526674}
+ ] 
+}, 
+{
+ "frame_id":252, 
+ "filename":"data/images_yolo/VICENTEIMG1506.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.516690, "center_y":0.277137, "width":0.259687, "height":0.355091}, "confidence":0.847121}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.512216, "center_y":0.275439, "width":0.235807, "height":0.368016}, "confidence":0.409392}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.370776, "center_y":0.717873, "width":0.199966, "height":0.243755}, "confidence":0.437045}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.393367, "center_y":0.733471, "width":0.340741, "height":0.355310}, "confidence":0.387732}
+ ] 
+}, 
+{
+ "frame_id":253, 
+ "filename":"data/images_yolo/photo122.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.492366, "center_y":0.497940, "width":0.075636, "height":0.060467}, "confidence":0.914716}
+ ] 
+}, 
+{
+ "frame_id":254, 
+ "filename":"data/images_yolo/photo10.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.532798, "center_y":0.561877, "width":0.023415, "height":0.036835}, "confidence":0.761776}
+ ] 
+}, 
+{
+ "frame_id":255, 
+ "filename":"data/images_yolo/photo130.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.458869, "center_y":0.513845, "width":0.046024, "height":0.058629}, "confidence":0.511570}
+ ] 
+}, 
+{
+ "frame_id":256, 
+ "filename":"data/images_yolo/photo4.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.520765, "center_y":0.487600, "width":0.107712, "height":0.117633}, "confidence":0.966291}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.527989, "center_y":0.488990, "width":0.060287, "height":0.087523}, "confidence":0.334555}
+ ] 
+}, 
+{
+ "frame_id":257, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG575.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.516946, "center_y":0.704333, "width":0.150935, "height":0.171591}, "confidence":0.971538}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.626480, "center_y":0.284946, "width":0.069425, "height":0.129586}, "confidence":0.825932}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.537015, "center_y":0.571074, "width":0.039661, "height":0.053959}, "confidence":0.624818}
+ ] 
+}, 
+{
+ "frame_id":258, 
+ "filename":"data/images_yolo/photo69.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.510755, "center_y":0.445129, "width":0.043808, "height":0.056290}, "confidence":0.428384}
+ ] 
+}, 
+{
+ "frame_id":259, 
+ "filename":"data/images_yolo/photo36.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.510973, "center_y":0.555850, "width":0.117040, "height":0.159133}, "confidence":0.936213}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.528134, "center_y":0.563769, "width":0.069136, "height":0.254787}, "confidence":0.281286}
+ ] 
+}, 
+{
+ "frame_id":260, 
+ "filename":"data/images_yolo/LUIS FRANCISCOIMG750.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.560478, "center_y":0.372338, "width":0.333249, "height":0.271102}, "confidence":0.919830}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.587170, "center_y":0.598718, "width":0.086543, "height":0.069407}, "confidence":0.883594}
+ ] 
+}, 
+{
+ "frame_id":261, 
+ "filename":"data/images_yolo/photo5.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":262, 
+ "filename":"data/images_yolo/ALFONSOIMG524.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.535035, "center_y":0.247719, "width":0.238630, "height":0.242140}, "confidence":0.843503}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.539812, "center_y":0.239678, "width":0.225531, "height":0.210586}, "confidence":0.360280}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.475300, "center_y":0.523870, "width":0.317891, "height":0.320644}, "confidence":0.296105}
+ ] 
+}, 
+{
+ "frame_id":263, 
+ "filename":"data/images_yolo/photo131.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.495409, "center_y":0.490887, "width":0.034264, "height":0.043888}, "confidence":0.831979}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.503317, "center_y":0.486617, "width":0.037303, "height":0.037058}, "confidence":0.563333}
+ ] 
+}, 
+{
+ "frame_id":264, 
+ "filename":"data/images_yolo/SIMATECIMAG34.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.466302, "center_y":0.494332, "width":0.139377, "height":0.127118}, "confidence":0.953307}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.466527, "center_y":0.720215, "width":0.157724, "height":0.098801}, "confidence":0.920932}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.467596, "center_y":0.713707, "width":0.299905, "height":0.225806}, "confidence":0.252222}
+ ] 
+}, 
+{
+ "frame_id":265, 
+ "filename":"data/images_yolo/photo82.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.511989, "center_y":0.517775, "width":0.048533, "height":0.094409}, "confidence":0.495992}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.513970, "center_y":0.512309, "width":0.069250, "height":0.141718}, "confidence":0.451061}
+ ] 
+}, 
+{
+ "frame_id":266, 
+ "filename":"data/images_yolo/photo84.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.550087, "center_y":0.417701, "width":0.073328, "height":0.105336}, "confidence":0.550099}
+ ] 
+}, 
+{
+ "frame_id":267, 
+ "filename":"data/images_yolo/photo26.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.488404, "center_y":0.569476, "width":0.085245, "height":0.094752}, "confidence":0.938572}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.486759, "center_y":0.565504, "width":0.080383, "height":0.208532}, "confidence":0.338356}
+ ] 
+}, 
+{
+ "frame_id":268, 
+ "filename":"data/images_yolo/SIMATECIMAG38.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.682941, "center_y":0.406762, "width":0.140266, "height":0.095987}, "confidence":0.983417}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.444768, "center_y":0.397578, "width":0.191761, "height":0.085727}, "confidence":0.854280}
+ ] 
+}, 
+{
+ "frame_id":269, 
+ "filename":"data/images_yolo/photo107.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.508904, "center_y":0.464245, "width":0.050179, "height":0.032463}, "confidence":0.339692}
+ ] 
+}, 
+{
+ "frame_id":270, 
+ "filename":"data/images_yolo/photo33.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.482127, "center_y":0.493647, "width":0.048201, "height":0.056365}, "confidence":0.852678}
+ ] 
+}, 
+{
+ "frame_id":271, 
+ "filename":"data/images_yolo/SIMATECIMAG59.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.506821, "center_y":0.469940, "width":0.116192, "height":0.119219}, "confidence":0.947398}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.502747, "center_y":0.580641, "width":0.135620, "height":0.064817}, "confidence":0.586914}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.504846, "center_y":0.580861, "width":0.152129, "height":0.139042}, "confidence":0.504288}
+ ] 
+}, 
+{
+ "frame_id":272, 
+ "filename":"data/images_yolo/photo20.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.501196, "center_y":0.472282, "width":0.079938, "height":0.139698}, "confidence":0.697855}
+ ] 
+}, 
+{
+ "frame_id":273, 
+ "filename":"data/images_yolo/photo47.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.549818, "center_y":0.371873, "width":0.190203, "height":0.089420}, "confidence":0.961370}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.552264, "center_y":0.370182, "width":0.154964, "height":0.183243}, "confidence":0.687203}
+ ] 
+}, 
+{
+ "frame_id":274, 
+ "filename":"data/images_yolo/photo89.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.449944, "center_y":0.525930, "width":0.014704, "height":0.019142}, "confidence":0.409051}
+ ] 
+}, 
+{
+ "frame_id":275, 
+ "filename":"data/images_yolo/photo118.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.493561, "center_y":0.510401, "width":0.023723, "height":0.047568}, "confidence":0.850109}
+ ] 
+}, 
+{
+ "frame_id":276, 
+ "filename":"data/images_yolo/VICENTEIMG1504.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.451394, "center_y":0.137857, "width":0.288546, "height":0.247644}, "confidence":0.836305}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.447981, "center_y":0.144282, "width":0.242329, "height":0.261877}, "confidence":0.422074}
+ ] 
+}, 
+{
+ "frame_id":277, 
+ "filename":"data/images_yolo/photo66.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":278, 
+ "filename":"data/images_yolo/photo146.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.504407, "center_y":0.548113, "width":0.084268, "height":0.113231}, "confidence":0.393514}
+ ] 
+}, 
+{
+ "frame_id":279, 
+ "filename":"data/images_yolo/SIMATECIMAG54.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.550343, "center_y":0.386466, "width":0.114914, "height":0.128660}, "confidence":0.926124}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.555860, "center_y":0.387199, "width":0.163282, "height":0.071594}, "confidence":0.922319}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.644508, "center_y":0.641381, "width":0.367113, "height":0.429413}, "confidence":0.476061}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.561857, "center_y":0.598751, "width":0.184845, "height":0.298541}, "confidence":0.393538}
+ ] 
+}, 
+{
+ "frame_id":280, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG569.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.475911, "center_y":0.371101, "width":0.282845, "height":0.281761}, "confidence":0.822538}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.482425, "center_y":0.367990, "width":0.249522, "height":0.285077}, "confidence":0.266854}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.432010, "center_y":0.632995, "width":0.145783, "height":0.114473}, "confidence":0.872165}
+ ] 
+}, 
+{
+ "frame_id":281, 
+ "filename":"data/images_yolo/photo127.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.437718, "center_y":0.559762, "width":0.095402, "height":0.107335}, "confidence":0.938629}
+ ] 
+}, 
+{
+ "frame_id":282, 
+ "filename":"data/images_yolo/VICENTEIMG1501.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.473528, "center_y":0.238336, "width":0.225600, "height":0.251987}, "confidence":0.856495}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.466639, "center_y":0.231725, "width":0.204310, "height":0.247917}, "confidence":0.254030}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.467268, "center_y":0.227647, "width":0.364073, "height":0.116657}, "confidence":0.260365}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.504470, "center_y":0.472742, "width":0.143226, "height":0.262396}, "confidence":0.423832}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.482850, "center_y":0.472437, "width":0.389796, "height":0.312330}, "confidence":0.258770}
+ ] 
+}, 
+{
+ "frame_id":283, 
+ "filename":"data/images_yolo/JOSE EMILIOIMG1426.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.524353, "center_y":0.300882, "width":0.294705, "height":0.253362}, "confidence":0.878667}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.507478, "center_y":0.594837, "width":0.311881, "height":0.424767}, "confidence":0.404317}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.499576, "center_y":0.637883, "width":0.176216, "height":0.459730}, "confidence":0.261334}
+ ] 
+}, 
+{
+ "frame_id":284, 
+ "filename":"data/images_yolo/LEONARDOIMG713.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.330888, "center_y":0.750514, "width":0.160058, "height":0.264111}, "confidence":0.968494}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.394864, "center_y":0.640320, "width":0.042782, "height":0.053212}, "confidence":0.363804}
+ ] 
+}, 
+{
+ "frame_id":285, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG563.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.482127, "center_y":0.566436, "width":0.214195, "height":0.185478}, "confidence":0.888688}
+ ] 
+}, 
+{
+ "frame_id":286, 
+ "filename":"data/images_yolo/ADANIMG698.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.513512, "center_y":0.603592, "width":0.314924, "height":0.222351}, "confidence":0.849566}
+ ] 
+}, 
+{
+ "frame_id":287, 
+ "filename":"data/images_yolo/JOSE EMILIOIMG1427.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.534574, "center_y":0.321132, "width":0.153381, "height":0.254092}, "confidence":0.948843}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.532031, "center_y":0.314543, "width":0.135861, "height":0.112753}, "confidence":0.328811}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.507733, "center_y":0.515499, "width":0.139364, "height":0.278101}, "confidence":0.769114}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.424062, "center_y":0.498476, "width":0.281322, "height":0.409885}, "confidence":0.474734}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.472568, "center_y":0.510582, "width":0.403683, "height":0.209355}, "confidence":0.470958}
+ ] 
+}, 
+{
+ "frame_id":288, 
+ "filename":"data/images_yolo/SIMATECIMAG51.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.820849, "center_y":0.370536, "width":0.216256, "height":0.181294}, "confidence":0.987979}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.438461, "center_y":0.495112, "width":0.115353, "height":0.092710}, "confidence":0.929079}
+ ] 
+}, 
+{
+ "frame_id":289, 
+ "filename":"data/images_yolo/VICENTEIMG1498.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.432704, "center_y":0.349391, "width":0.170374, "height":0.162224}, "confidence":0.903471}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.448504, "center_y":0.530356, "width":0.157666, "height":0.156222}, "confidence":0.549753}
+ ] 
+}, 
+{
+ "frame_id":290, 
+ "filename":"data/images_yolo/photo115.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.580568, "center_y":0.469779, "width":0.031981, "height":0.035678}, "confidence":0.434273}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.548680, "center_y":0.457400, "width":0.058597, "height":0.039369}, "confidence":0.298068}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.569280, "center_y":0.468840, "width":0.068741, "height":0.061936}, "confidence":0.293740}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.529039, "center_y":0.458047, "width":0.024342, "height":0.032770}, "confidence":0.267544}
+ ] 
+}, 
+{
+ "frame_id":291, 
+ "filename":"data/images_yolo/SIMATECIMAG06.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.355745, "center_y":0.408201, "width":0.215968, "height":0.183926}, "confidence":0.940438}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.516134, "center_y":0.492577, "width":0.061303, "height":0.107103}, "confidence":0.817138}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.393099, "center_y":0.752434, "width":0.229719, "height":0.466195}, "confidence":0.652780}
+ ] 
+}, 
+{
+ "frame_id":292, 
+ "filename":"data/images_yolo/LUIS ALEJANDROIMG672.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.553449, "center_y":0.467804, "width":0.181063, "height":0.169309}, "confidence":0.888229}
+ ] 
+}, 
+{
+ "frame_id":293, 
+ "filename":"data/images_yolo/photo68.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.470161, "center_y":0.507590, "width":0.066434, "height":0.069831}, "confidence":0.766292}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.473994, "center_y":0.496315, "width":0.045748, "height":0.050425}, "confidence":0.559276}
+ ] 
+}, 
+{
+ "frame_id":294, 
+ "filename":"data/images_yolo/photo28.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.465508, "center_y":0.490608, "width":0.033778, "height":0.042681}, "confidence":0.828287}
+ ] 
+}, 
+{
+ "frame_id":295, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG562.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.550578, "center_y":0.225808, "width":0.167504, "height":0.145096}, "confidence":0.943294}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.521335, "center_y":0.377540, "width":0.121066, "height":0.148755}, "confidence":0.893318}
+ ] 
+}, 
+{
+ "frame_id":296, 
+ "filename":"data/images_yolo/SIMATECIMAG64.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.473251, "center_y":0.403497, "width":0.123737, "height":0.050496}, "confidence":0.995822}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.466847, "center_y":0.403051, "width":0.080592, "height":0.095970}, "confidence":0.994254}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.476673, "center_y":0.404915, "width":0.155579, "height":0.109267}, "confidence":0.902904}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.468043, "center_y":0.518342, "width":0.072593, "height":0.055332}, "confidence":0.857273}
+ ] 
+}, 
+{
+ "frame_id":297, 
+ "filename":"data/images_yolo/HECTORIMG709.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.430774, "center_y":0.779889, "width":0.168428, "height":0.261685}, "confidence":0.868501}
+ ] 
+}, 
+{
+ "frame_id":298, 
+ "filename":"data/images_yolo/LUIS ALEJANDROIMG816.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.482452, "center_y":0.762576, "width":0.332781, "height":0.341807}, "confidence":0.665900}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.659346, "center_y":0.479837, "width":0.158732, "height":0.282253}, "confidence":0.796001}
+ ] 
+}, 
+{
+ "frame_id":299, 
+ "filename":"data/images_yolo/SIMATECIMAG45.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.588515, "center_y":0.553416, "width":0.227521, "height":0.184063}, "confidence":0.936483}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.579385, "center_y":0.538497, "width":0.187365, "height":0.088477}, "confidence":0.890491}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.364380, "center_y":0.516365, "width":0.090510, "height":0.062654}, "confidence":0.862696}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.201031, "center_y":0.449736, "width":0.104478, "height":0.077564}, "confidence":0.516627}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.290209, "center_y":0.403704, "width":0.173577, "height":0.064444}, "confidence":0.328985}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.453268, "center_y":0.446760, "width":0.019193, "height":0.020606}, "confidence":0.309483}
+ ] 
+}, 
+{
+ "frame_id":300, 
+ "filename":"data/images_yolo/photo123.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.534032, "center_y":0.473380, "width":0.071485, "height":0.072058}, "confidence":0.940442}
+ ] 
+}, 
+{
+ "frame_id":301, 
+ "filename":"data/images_yolo/photo136.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.498086, "center_y":0.562729, "width":0.024672, "height":0.047651}, "confidence":0.309342}
+ ] 
+}, 
+{
+ "frame_id":302, 
+ "filename":"data/images_yolo/SIMATECIMAG22.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.287796, "center_y":0.466371, "width":0.205295, "height":0.118288}, "confidence":0.964325}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.289452, "center_y":0.486333, "width":0.259755, "height":0.220041}, "confidence":0.948319}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.791805, "center_y":0.485250, "width":0.101965, "height":0.106308}, "confidence":0.495018}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.601948, "center_y":0.381025, "width":0.023203, "height":0.028994}, "confidence":0.387827}
+ ] 
+}, 
+{
+ "frame_id":303, 
+ "filename":"data/images_yolo/photo75.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.515372, "center_y":0.470061, "width":0.082649, "height":0.124329}, "confidence":0.706228}
+ ] 
+}, 
+{
+ "frame_id":304, 
+ "filename":"data/images_yolo/SIMATECIMAG36.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.529842, "center_y":0.362785, "width":0.216312, "height":0.277544}, "confidence":0.949807}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.132530, "center_y":0.327131, "width":0.244547, "height":0.168984}, "confidence":0.852208}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.205822, "center_y":0.330824, "width":0.308439, "height":0.163037}, "confidence":0.659653}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.167804, "center_y":0.323863, "width":0.532305, "height":0.123180}, "confidence":0.489824}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.182340, "center_y":0.331843, "width":0.368128, "height":0.341200}, "confidence":0.277415}
+ ] 
+}, 
+{
+ "frame_id":305, 
+ "filename":"data/images_yolo/photo7.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.508888, "center_y":0.550649, "width":0.008011, "height":0.024351}, "confidence":0.362812}
+ ] 
+}, 
+{
+ "frame_id":306, 
+ "filename":"data/images_yolo/photo86.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.524438, "center_y":0.552279, "width":0.064007, "height":0.100607}, "confidence":0.458721}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.518400, "center_y":0.563020, "width":0.027133, "height":0.072746}, "confidence":0.311274}
+ ] 
+}, 
+{
+ "frame_id":307, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG808.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.475760, "center_y":0.824479, "width":0.313540, "height":0.354078}, "confidence":0.907194}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.459313, "center_y":0.833265, "width":0.371765, "height":0.279551}, "confidence":0.312663}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.589740, "center_y":0.497357, "width":0.080156, "height":0.055968}, "confidence":0.681807}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.473236, "center_y":0.570350, "width":0.105310, "height":0.097374}, "confidence":0.552264}
+ ] 
+}, 
+{
+ "frame_id":308, 
+ "filename":"data/images_yolo/photo42.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.513581, "center_y":0.511129, "width":0.074692, "height":0.100278}, "confidence":0.912039}
+ ] 
+}, 
+{
+ "frame_id":309, 
+ "filename":"data/images_yolo/photo62.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.482912, "center_y":0.517976, "width":0.067755, "height":0.085844}, "confidence":0.848363}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.489532, "center_y":0.523046, "width":0.051000, "height":0.161407}, "confidence":0.423183}
+ ] 
+}, 
+{
+ "frame_id":310, 
+ "filename":"data/images_yolo/ADANIMG533.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.625153, "center_y":0.365053, "width":0.200820, "height":0.166693}, "confidence":0.927256}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.360082, "center_y":0.134926, "width":0.196019, "height":0.139477}, "confidence":0.750839}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.398925, "center_y":0.354611, "width":0.340848, "height":0.224310}, "confidence":0.672988}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.413443, "center_y":0.345738, "width":0.217230, "height":0.372847}, "confidence":0.596049}
+ ] 
+}, 
+{
+ "frame_id":311, 
+ "filename":"data/images_yolo/photo57.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.560544, "center_y":0.541693, "width":0.079472, "height":0.099984}, "confidence":0.733024}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.556120, "center_y":0.535757, "width":0.057417, "height":0.064344}, "confidence":0.562094}
+ ] 
+}, 
+{
+ "frame_id":312, 
+ "filename":"data/images_yolo/SIMATECIMAG31.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.517308, "center_y":0.323109, "width":0.164549, "height":0.173366}, "confidence":0.972509}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.526489, "center_y":0.563227, "width":0.064830, "height":0.070838}, "confidence":0.866333}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.581167, "center_y":0.549069, "width":0.015424, "height":0.026916}, "confidence":0.312693}
+ ] 
+}, 
+{
+ "frame_id":313, 
+ "filename":"data/images_yolo/photo104.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.470635, "center_y":0.603113, "width":0.015646, "height":0.025529}, "confidence":0.828283}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.468914, "center_y":0.604408, "width":0.022526, "height":0.045098}, "confidence":0.266014}
+ ] 
+}, 
+{
+ "frame_id":314, 
+ "filename":"data/images_yolo/FABIOIMG1407.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.486337, "center_y":0.295049, "width":0.300400, "height":0.270880}, "confidence":0.892971}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.491063, "center_y":0.297200, "width":0.218757, "height":0.276178}, "confidence":0.345483}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.475797, "center_y":0.567220, "width":0.108981, "height":0.100751}, "confidence":0.557434}
+ ] 
+}, 
+{
+ "frame_id":315, 
+ "filename":"data/images_yolo/SIMATECIMAG30.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.759629, "center_y":0.473516, "width":0.195601, "height":0.238951}, "confidence":0.981786}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.760596, "center_y":0.463111, "width":0.169396, "height":0.118599}, "confidence":0.738529}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.419341, "center_y":0.422986, "width":0.419781, "height":0.315625}, "confidence":0.634392}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.468139, "center_y":0.432270, "width":0.430339, "height":0.183601}, "confidence":0.325348}
+ ] 
+}, 
+{
+ "frame_id":316, 
+ "filename":"data/images_yolo/photo144.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.470933, "center_y":0.477978, "width":0.052208, "height":0.043825}, "confidence":0.820911}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.465762, "center_y":0.483088, "width":0.059802, "height":0.074373}, "confidence":0.265733}
+ ] 
+}, 
+{
+ "frame_id":317, 
+ "filename":"data/images_yolo/photo96.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.527582, "center_y":0.496943, "width":0.020919, "height":0.029745}, "confidence":0.945495}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.245264, "center_y":0.250987, "width":0.047709, "height":0.109518}, "confidence":0.267826}
+ ] 
+}, 
+{
+ "frame_id":318, 
+ "filename":"data/images_yolo/photo81.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.542458, "center_y":0.454377, "width":0.019971, "height":0.032022}, "confidence":0.886554}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.482904, "center_y":0.477729, "width":0.030519, "height":0.043308}, "confidence":0.739634}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.379545, "center_y":0.437096, "width":0.038533, "height":0.038785}, "confidence":0.531520}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.261302, "center_y":0.652216, "width":0.054852, "height":0.033794}, "confidence":0.407548}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.419655, "center_y":0.699072, "width":0.024222, "height":0.033171}, "confidence":0.364128}
+ ] 
+}, 
+{
+ "frame_id":319, 
+ "filename":"data/images_yolo/SIMATECIMAG27.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.535803, "center_y":0.441354, "width":0.150679, "height":0.224395}, "confidence":0.975560}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.537014, "center_y":0.444520, "width":0.101891, "height":0.116376}, "confidence":0.411297}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.548864, "center_y":0.681003, "width":0.194221, "height":0.107367}, "confidence":0.966716}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.548974, "center_y":0.682211, "width":0.326571, "height":0.141924}, "confidence":0.540997}
+ ] 
+}, 
+{
+ "frame_id":320, 
+ "filename":"data/images_yolo/ADANIMG700.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.548454, "center_y":0.672377, "width":0.136191, "height":0.156354}, "confidence":0.946069}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.509327, "center_y":0.472303, "width":0.208625, "height":0.297535}, "confidence":0.848411}
+ ] 
+}, 
+{
+ "frame_id":321, 
+ "filename":"data/images_yolo/photo6.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.523246, "center_y":0.547807, "width":0.024865, "height":0.055920}, "confidence":0.336769}
+ ] 
+}, 
+{
+ "frame_id":322, 
+ "filename":"data/images_yolo/CARLOS ARTUROIMG574.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.539899, "center_y":0.904136, "width":0.138261, "height":0.178602}, "confidence":0.885256}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.539886, "center_y":0.894322, "width":0.243309, "height":0.125216}, "confidence":0.710994}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.558551, "center_y":0.712830, "width":0.221764, "height":0.176426}, "confidence":0.881974}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.679503, "center_y":0.434505, "width":0.046472, "height":0.065128}, "confidence":0.746894}
+ ] 
+}, 
+{
+ "frame_id":323, 
+ "filename":"data/images_yolo/SIMATECIMAG17.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.482808, "center_y":0.514610, "width":0.152682, "height":0.136847}, "confidence":0.982749}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.489929, "center_y":0.516938, "width":0.221755, "height":0.217948}, "confidence":0.952522}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.484269, "center_y":0.708020, "width":0.098055, "height":0.162434}, "confidence":0.798383}
+ ] 
+}, 
+{
+ "frame_id":324, 
+ "filename":"data/images_yolo/SIMATECIMAG52.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.546951, "center_y":0.437497, "width":0.177056, "height":0.170481}, "confidence":0.963051}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.720366, "center_y":0.451961, "width":0.182482, "height":0.252925}, "confidence":0.642192}
+ ] 
+}, 
+{
+ "frame_id":325, 
+ "filename":"data/images_yolo/photo37.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.511629, "center_y":0.527531, "width":0.111405, "height":0.139287}, "confidence":0.862439}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.529980, "center_y":0.535346, "width":0.067015, "height":0.198759}, "confidence":0.299039}
+ ] 
+}, 
+{
+ "frame_id":326, 
+ "filename":"data/images_yolo/SIMATECIMAG65.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.506821, "center_y":0.469940, "width":0.116192, "height":0.119219}, "confidence":0.947398}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.502747, "center_y":0.580641, "width":0.135620, "height":0.064817}, "confidence":0.586914}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.504846, "center_y":0.580861, "width":0.152129, "height":0.139042}, "confidence":0.504288}
+ ] 
+}, 
+{
+ "frame_id":327, 
+ "filename":"data/images_yolo/FELIXIMG812.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.669461, "center_y":0.731334, "width":0.316906, "height":0.318188}, "confidence":0.754055}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.681189, "center_y":0.740648, "width":0.320198, "height":0.338955}, "confidence":0.289865}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.427050, "center_y":0.502917, "width":0.336784, "height":0.360614}, "confidence":0.586864}
+ ] 
+}, 
+{
+ "frame_id":328, 
+ "filename":"data/images_yolo/FELIXIMG810.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.406435, "center_y":0.482841, "width":0.233617, "height":0.266480}, "confidence":0.905448}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.417322, "center_y":0.477334, "width":0.315055, "height":0.436145}, "confidence":0.281124}, 
+  {"class_id":1, "name":"calibration", "relative_coordinates":{"center_x":0.417322, "center_y":0.477334, "width":0.315055, "height":0.436145}, "confidence":0.583543}, 
+  {"class_id":0, "name":"wound", "relative_coordinates":{"center_x":0.623966, "center_y":0.826418, "width":0.273191, "height":0.293053}, "confidence":0.432320}
+ ] 
+}
+]
