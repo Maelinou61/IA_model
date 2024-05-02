@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_tflite_wounds_only</folder>
+	<filename>PABLOIMG752.jpg</filename>
+	<path>C:\Documents_ancien_PC\ISEN\M1\chronic_wounds_project\data\images_tflite_wounds_only\PABLOIMG752.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wound</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>1</ymin>
+			<xmax>449</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

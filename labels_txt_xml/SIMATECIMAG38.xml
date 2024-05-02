@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_tflite_wounds_only</folder>
+	<filename>SIMATECIMAG38.jpg</filename>
+	<path>C:\Documents_ancien_PC\ISEN\M1\chronic_wounds_project\data\images_tflite_wounds_only\SIMATECIMAG38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wound</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>227</ymin>
+			<xmax>362</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>
