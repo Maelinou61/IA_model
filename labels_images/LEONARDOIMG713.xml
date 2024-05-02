@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>LEONARDOIMG713.jpg</filename>
+	<path>C:\Documents_ancien_PC\ISEN\M1\chronic_wounds_project\data\Images\LEONARDOIMG713.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>calibration</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>406</ymin>
+			<xmax>260</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+</annotation>

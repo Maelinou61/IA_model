@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>LUIS ALEJANDROIMG673.jpg</filename>
+	<path>C:\Documents_ancien_PC\ISEN\M1\chronic_wounds_project\data\Images\LUIS ALEJANDROIMG673.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>calibration</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>451</ymin>
+			<xmax>356</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wound</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>224</ymin>
+			<xmax>373</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

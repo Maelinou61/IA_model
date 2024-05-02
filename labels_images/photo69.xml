@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image_allege</folder>
+	<filename>photo69.jpg</filename>
+	<path>C:\Documents_ancien_PC\ISEN\M1\chronic_wounds_project\data\image_allege\photo69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1224</width>
+		<height>816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wound</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>606</xmin>
+			<ymin>342</ymin>
+			<xmax>643</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>
